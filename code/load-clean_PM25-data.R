@@ -10,6 +10,10 @@ read_data <- function(name){
   return(read.csv(path))
 }
 
+create_names <- function(file_name){
+  return(gsub(".csv", "", file_name))  
+}
+
 clean_data <- function(rawAirQual){
   rawAirQual$Date <- as.Date(rawAirQual$Date, format="%m/%d/%Y")
   return(rawAirQual)
@@ -25,9 +29,17 @@ aggregate_data <- function(airQualWithDateFormated){
 
 #this is my list for storing data frames
 pm25_files <- list.files(path="./raw-data/pm25_raw", pattern=NULL, all.files=FALSE, full.names=FALSE)
-print(pm25_files)
+data_names <- lapply(pm25_files, create_names)
 
 pm25_raw <- lapply(pm25_files, read_data)
+test <- setNames(pm25_raw, data_names)
+names(pm25_raw) = data_names
+
+
+#HOW TO ACCESS DATAFRAMES FROM A LIST OF DATAFRAMES
+#names(test)
+#test[[1]]
+#test[["SLC_PM25_2021"]]
 
 pm25_cleaned <- lapply(pm25_raw, clean_data)
 

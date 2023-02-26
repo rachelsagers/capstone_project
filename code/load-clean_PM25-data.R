@@ -20,7 +20,7 @@ aggregate_data <- function(airQualWithDateFormated){
   PM25_aggregated <- airQualWithDateFormated %>%
     group_by(Date) %>%
     summarize(daily_mean=mean(Daily.Mean.PM2.5.Concentration))
-  return(airQualConverted)
+  return(PM25_aggregated)
 }
 
 #this is my list for storing data frames
@@ -31,17 +31,8 @@ pm25_raw <- lapply(pm25_files, read_data)
 
 pm25_cleaned <- lapply(pm25_raw, clean_data)
 
-pm25_converted <- lapply(pm25_cleaned, convert_data)
+pm25_converted <- lapply(pm25_cleaned, aggregate_data)
 
-
-
-
-#SLC_PM25_2022_raw <- read.csv("raw-data/PM25_raw/SLC_PM25_2022.csv")
-#SLC_PM25_2022_raw$Date <- as.Date(SLC_PM25_2022_raw$Date, format="%m/%d/%Y")
-
-#SLC_PM25_2021_raw <- read.csv("raw-data/PM25_raw/SLC_PM25_2021.csv")
-
-#SLC_PM25_2021_raw_newdate <-
 
 
 

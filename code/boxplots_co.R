@@ -1,61 +1,61 @@
-here::i_am("code/boxplots_pm25.R")
+here::i_am("code/boxplots_co.R")
 
 library(ggplot2)
 library(dplyr)
 
-###### PM2.5 BOXPLOTS ######
+###### CO BOXPLOTS ######
 
 ### SALT LAKE CITY, UT ###
 
 #Subsetting SLC data for pre and post implementation of free fares
-SLC_PM25_preandpost <- (pm25_aggregated[["SLC_PM25_2022"]])
+SLC_CO_preandpost <- (co_aggregated[["SLC_CO_2022"]])
 
 #filtering by desired dates and categorizing by pre and post
-SLC_PM25_preandpost <- SLC_PM25_preandpost %>% 
+SLC_CO_preandpost <- SLC_CO_preandpost %>% 
   filter(between(Date, as.Date('2022-01-01'), as.Date('2022-02-28'))) %>%
   mutate(pre_or_post = case_when(Date <= as.Date('2022-01-31') ~ "pre", 
                                  Date >= as.Date('2022-02-01') ~ "post"))
 
 #adding column with constant city value
-SLC_PM25_preandpost["city"] = "SLC"
+SLC_CO_preandpost["city"] = "SLC"
 
-### ALEXANDRIA, VA ###
+### ALEXANDRIA, VA ####
 
 #Subsetting Alexandria (ALX) data for pre and post implementation of free fares
-ALX_PM25_preandpost <- rbind(pm25_aggregated[["ALX_PM25_2020"]],pm25_aggregated[["ALX_PM25_2021"]],pm25_aggregated[["ALX_PM25_2022"]])
+ALX_CO_preandpost <- rbind(co_aggregated[["ALX_CO_2020"]],co_aggregated[["ALX_CO_2021"]],co_aggregated[["ALX_CO_2022"]])
 
 #filtering by desired dates and categorizing by pre and post
-ALX_PM25_preandpost <- ALX_PM25_preandpost %>% 
+ALX_CO_preandpost <- ALX_CO_preandpost %>% 
   filter(between(Date, as.Date('2020-09-01'), as.Date('2022-09-01'))) %>%
   mutate(pre_or_post = case_when(Date < as.Date('2021-09-01') ~ "pre", 
                                  Date >= as.Date('2021-09-01') ~ "post"))
 
 #adding column with constant city value
-ALX_PM25_preandpost["city"] = "ALX"
+ALX_CO_preandpost["city"] = "ALX"
 
 ### ALBUQUERQUE, NM ###
 
 #Subsetting Albuquerque (ALB)) data for pre and post implementation of free fares
-ALB_PM25_preandpost <- rbind(pm25_aggregated[["ALB_PM25_2021"]],pm25_aggregated[["ALB_PM25_2022"]])
+ALB_CO_preandpost <- rbind(co_aggregated[["ALB_CO_2021"]],co_aggregated[["ALB_CO_2022"]])
 
 #filtering by desired dates and categorizing by pre and post
-ALB_PM25_preandpost <- ALB_PM25_preandpost %>% 
+ALB_CO_preandpost <- ALB_CO_preandpost %>% 
   mutate(pre_or_post = case_when(Date < as.Date('2022-01-01') ~ "pre", 
                                  Date >= as.Date('2022-01-01') ~ "post"))
 
 #adding column with constant city value
-ALB_PM25_preandpost["city"] = "ALB"
+ALB_CO_preandpost["city"] = "ALB"
 
 ### BOXPLOT CREATION ###
 
 #binding all cities into one dataframe to graph
-PM25_preandpost_boxplots <- rbind(SLC_PM25_preandpost,
-                                  ALX_PM25_preandpost,
-                                  ALB_PM25_preandpost)
+CO_preandpost_boxplots <- rbind(SLC_CO_preandpost,
+                                ALX_CO_preandpost,
+                                ALB_CO_preandpost)
 
 #ordering pre and post categories so pre comes before post on graph
-PM25_preandpost_boxplots$pre_or_post <- factor(PM25_preandpost_boxplots$pre_or_post, levels=c("pre","post"))
+CO_preandpost_boxplots$pre_or_post <- factor(CO_preandpost_boxplots$pre_or_post, levels=c("pre","post"))
 
-#boxplots with all cities
-ggplot(PM25_preandpost_boxplots, aes(x=city, y=daily_mean, fill=pre_or_post)) + 
-         geom_boxplot()
+#CO boxplots with all cities
+ggplot(CO_preandpost_boxplots, aes(x=city, y=daily_mean, fill=pre_or_post)) + 
+  geom_boxplot()

@@ -1,0 +1,1001 @@
+Date,Source,Site ID,POC,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+1/2/2022,AQS,510130020,1,2.3,ug/m3 LC,10,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/5/2022,AQS,510130020,1,8.6,ug/m3 LC,36,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/8/2022,AQS,510130020,1,8.6,ug/m3 LC,36,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/11/2022,AQS,510130020,1,4.7,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/14/2022,AQS,510130020,1,12.4,ug/m3 LC,52,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/17/2022,AQS,510130020,1,4.8,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/20/2022,AQS,510130020,1,6.1,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/23/2022,AQS,510130020,1,11.9,ug/m3 LC,50,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/26/2022,AQS,510130020,1,7.6,ug/m3 LC,32,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/29/2022,AQS,510130020,1,7.2,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/1/2022,AQS,510130020,1,14.2,ug/m3 LC,55,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/4/2022,AQS,510130020,1,3.4,ug/m3 LC,14,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/7/2022,AQS,510130020,1,11.3,ug/m3 LC,47,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/10/2022,AQS,510130020,1,6,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/13/2022,AQS,510130020,1,8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/16/2022,AQS,510130020,1,8.5,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/19/2022,AQS,510130020,1,4.1,ug/m3 LC,17,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/22/2022,AQS,510130020,1,6.1,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/25/2022,AQS,510130020,1,2.7,ug/m3 LC,11,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/28/2022,AQS,510130020,1,6.3,ug/m3 LC,26,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/3/2022,AQS,510130020,1,3.4,ug/m3 LC,14,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/6/2022,AQS,510130020,1,10.5,ug/m3 LC,44,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/9/2022,AQS,510130020,1,3.7,ug/m3 LC,15,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/12/2022,AQS,510130020,1,4.3,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/15/2022,AQS,510130020,1,7.2,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/18/2022,AQS,510130020,1,7.3,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/21/2022,AQS,510130020,1,4.9,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/24/2022,AQS,510130020,1,7.8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/27/2022,AQS,510130020,1,1.9,ug/m3 LC,8,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/30/2022,AQS,510130020,1,7.6,ug/m3 LC,32,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/2/2022,AQS,510130020,1,3.8,ug/m3 LC,16,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/5/2022,AQS,510130020,1,7.3,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/8/2022,AQS,510130020,1,3.9,ug/m3 LC,16,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/11/2022,AQS,510130020,1,5,ug/m3 LC,21,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/14/2022,AQS,510130020,1,6.6,ug/m3 LC,28,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/17/2022,AQS,510130020,1,3.1,ug/m3 LC,13,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/20/2022,AQS,510130020,1,3,ug/m3 LC,13,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/23/2022,AQS,510130020,1,7.9,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/29/2022,AQS,510130020,1,6.3,ug/m3 LC,26,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/2/2022,AQS,510130020,1,9.2,ug/m3 LC,38,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/5/2022,AQS,510130020,1,4.7,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/8/2022,AQS,510130020,1,7.2,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/11/2022,AQS,510130020,1,6.9,ug/m3 LC,29,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/14/2022,AQS,510130020,1,3,ug/m3 LC,13,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/17/2022,AQS,510130020,1,5.7,ug/m3 LC,24,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/20/2022,AQS,510130020,1,14,ug/m3 LC,55,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/26/2022,AQS,510130020,1,4.7,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/29/2022,AQS,510130020,1,7.5,ug/m3 LC,31,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/1/2022,AQS,510130020,1,12.3,ug/m3 LC,51,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/4/2022,AQS,510130020,1,8.2,ug/m3 LC,34,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/7/2022,AQS,510130020,1,6.4,ug/m3 LC,27,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/10/2022,AQS,510130020,1,5.4,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/13/2022,AQS,510130020,1,9.8,ug/m3 LC,41,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/16/2022,AQS,510130020,1,7.8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/19/2022,AQS,510130020,1,3.7,ug/m3 LC,15,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/22/2022,AQS,510130020,1,12.5,ug/m3 LC,52,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/25/2022,AQS,510130020,1,8.6,ug/m3 LC,36,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/28/2022,AQS,510130020,1,4.4,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/1/2022,AQS,510130020,1,11,ug/m3 LC,46,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/4/2022,AQS,510130020,1,13.5,ug/m3 LC,54,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/7/2022,AQS,510130020,1,6.5,ug/m3 LC,27,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/10/2022,AQS,510130020,1,7.3,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/13/2022,AQS,510130020,1,7.9,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/16/2022,AQS,510130020,1,8.4,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/19/2022,AQS,510130020,1,7.6,ug/m3 LC,32,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/22/2022,AQS,510130020,1,10.7,ug/m3 LC,45,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/25/2022,AQS,510130020,1,7.7,ug/m3 LC,32,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/28/2022,AQS,510130020,1,5,ug/m3 LC,21,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/31/2022,AQS,510130020,1,7.9,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/3/2022,AQS,510130020,1,6.8,ug/m3 LC,28,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/6/2022,AQS,510130020,1,4.3,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/9/2022,AQS,510130020,1,5.4,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/12/2022,AQS,510130020,1,4.4,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/15/2022,AQS,510130020,1,5.4,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/18/2022,AQS,510130020,1,5.6,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/21/2022,AQS,510130020,1,3.5,ug/m3 LC,15,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/27/2022,AQS,510130020,1,10.5,ug/m3 LC,44,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/30/2022,AQS,510130020,1,4.7,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/2/2022,AQS,510130020,1,5.6,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/5/2022,AQS,510130020,1,5.4,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/8/2022,AQS,510130020,1,4.6,ug/m3 LC,19,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/11/2022,AQS,510130020,1,4.5,ug/m3 LC,19,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/14/2022,AQS,510130020,1,5.3,ug/m3 LC,22,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/17/2022,AQS,510130020,1,11.5,ug/m3 LC,48,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/20/2022,AQS,510130020,1,8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/23/2022,AQS,510130020,1,2.1,ug/m3 LC,9,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/26/2022,AQS,510130020,1,5,ug/m3 LC,21,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/29/2022,AQS,510130020,1,2.8,ug/m3 LC,12,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/2/2022,AQS,510130020,1,2.4,ug/m3 LC,10,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/5/2022,AQS,510130020,1,2.2,ug/m3 LC,9,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/8/2022,AQS,510130020,1,4.8,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/11/2022,AQS,510130020,1,8.5,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/14/2022,AQS,510130020,1,6.1,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/17/2022,AQS,510130020,1,6.1,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/20/2022,AQS,510130020,1,3.8,ug/m3 LC,16,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/23/2022,AQS,510130020,1,8.7,ug/m3 LC,36,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/26/2022,AQS,510130020,1,4.5,ug/m3 LC,19,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/29/2022,AQS,510130020,1,8.2,ug/m3 LC,34,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/1/2022,AQS,510130020,1,6.3,ug/m3 LC,26,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/4/2022,AQS,510130020,1,7.8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/7/2022,AQS,510130020,1,4.8,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/10/2022,AQS,510130020,1,7.5,ug/m3 LC,31,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/13/2022,AQS,510130020,1,2.9,ug/m3 LC,12,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/16/2022,AQS,510130020,1,4,ug/m3 LC,17,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/19/2022,AQS,510130020,1,8.3,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/22/2022,AQS,510130020,1,9.7,ug/m3 LC,40,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/25/2022,AQS,510130020,1,6.5,ug/m3 LC,27,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/28/2022,AQS,510130020,1,3.3,ug/m3 LC,14,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/1/2022,AQS,510130020,1,3.7,ug/m3 LC,15,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/4/2022,AQS,510130020,1,11,ug/m3 LC,46,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/7/2022,AQS,510130020,1,10.7,ug/m3 LC,45,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/10/2022,AQS,510130020,1,8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/13/2022,AQS,510130020,1,5.4,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/16/2022,AQS,510130020,1,3.2,ug/m3 LC,13,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/19/2022,AQS,510130020,1,4.7,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/22/2022,AQS,510130020,1,7.1,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/25/2022,AQS,510130020,1,9.8,ug/m3 LC,41,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/28/2022,AQS,510130020,1,12.8,ug/m3 LC,52,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/31/2022,AQS,510130020,1,8.5,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/5/2022,AQS,510130020,2,8.4,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/11/2022,AQS,510130020,2,4.7,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/17/2022,AQS,510130020,2,4.1,ug/m3 LC,17,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/23/2022,AQS,510130020,2,12.8,ug/m3 LC,52,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/29/2022,AQS,510130020,2,6.8,ug/m3 LC,28,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/4/2022,AQS,510130020,2,3.1,ug/m3 LC,13,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/10/2022,AQS,510130020,2,5.6,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/16/2022,AQS,510130020,2,8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/22/2022,AQS,510130020,2,5.6,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+2/28/2022,AQS,510130020,2,6.1,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/6/2022,AQS,510130020,2,10.9,ug/m3 LC,45,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/12/2022,AQS,510130020,2,4.1,ug/m3 LC,17,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/18/2022,AQS,510130020,2,7.3,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/24/2022,AQS,510130020,2,7.8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+3/30/2022,AQS,510130020,2,7.3,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/5/2022,AQS,510130020,2,7.7,ug/m3 LC,32,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/11/2022,AQS,510130020,2,4.9,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/17/2022,AQS,510130020,2,3,ug/m3 LC,13,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/23/2022,AQS,510130020,2,8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+4/29/2022,AQS,510130020,2,6.5,ug/m3 LC,27,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/5/2022,AQS,510130020,2,4.4,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/11/2022,AQS,510130020,2,6.8,ug/m3 LC,28,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/17/2022,AQS,510130020,2,5.6,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+5/29/2022,AQS,510130020,2,7.4,ug/m3 LC,31,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/4/2022,AQS,510130020,2,8.1,ug/m3 LC,34,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/10/2022,AQS,510130020,2,5.3,ug/m3 LC,22,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/16/2022,AQS,510130020,2,8,ug/m3 LC,33,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/22/2022,AQS,510130020,2,12.6,ug/m3 LC,52,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+6/28/2022,AQS,510130020,2,4.6,ug/m3 LC,19,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/4/2022,AQS,510130020,2,13.3,ug/m3 LC,54,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/16/2022,AQS,510130020,2,8.5,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/22/2022,AQS,510130020,2,10.9,ug/m3 LC,45,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+7/28/2022,AQS,510130020,2,5.3,ug/m3 LC,22,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/3/2022,AQS,510130020,2,7.2,ug/m3 LC,30,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/9/2022,AQS,510130020,2,6.3,ug/m3 LC,26,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/15/2022,AQS,510130020,2,5.7,ug/m3 LC,24,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/21/2022,AQS,510130020,2,4,ug/m3 LC,17,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+8/27/2022,AQS,510130020,2,11.2,ug/m3 LC,47,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/2/2022,AQS,510130020,2,5.9,ug/m3 LC,25,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/8/2022,AQS,510130020,2,5.1,ug/m3 LC,21,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/14/2022,AQS,510130020,2,5.6,ug/m3 LC,23,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+9/20/2022,AQS,510130020,2,8.5,ug/m3 LC,35,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/2/2022,AQS,510130020,2,2.4,ug/m3 LC,10,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/8/2022,AQS,510130020,2,4.8,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/14/2022,AQS,510130020,2,6.2,ug/m3 LC,26,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/20/2022,AQS,510130020,2,4,ug/m3 LC,17,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+10/26/2022,AQS,510130020,2,4.2,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/1/2022,AQS,510130020,2,6.3,ug/m3 LC,26,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/7/2022,AQS,510130020,2,5.3,ug/m3 LC,22,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/13/2022,AQS,510130020,2,1.7,ug/m3 LC,7,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/19/2022,AQS,510130020,2,8.6,ug/m3 LC,36,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+11/25/2022,AQS,510130020,2,6.8,ug/m3 LC,28,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/1/2022,AQS,510130020,2,4.2,ug/m3 LC,18,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/7/2022,AQS,510130020,2,9.3,ug/m3 LC,39,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/13/2022,AQS,510130020,2,5.3,ug/m3 LC,22,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/19/2022,AQS,510130020,2,4.8,ug/m3 LC,20,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/25/2022,AQS,510130020,2,9.9,ug/m3 LC,41,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+12/31/2022,AQS,510130020,2,8.7,ug/m3 LC,36,Aurora Hills Visitors Center,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,13,Arlington,38.8577,-77.05922
+1/2/2022,AQS,510590030,1,2.2,ug/m3 LC,9,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/5/2022,AQS,510590030,1,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/8/2022,AQS,510590030,1,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/14/2022,AQS,510590030,1,12.3,ug/m3 LC,51,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/17/2022,AQS,510590030,1,3.6,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/20/2022,AQS,510590030,1,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/23/2022,AQS,510590030,1,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/26/2022,AQS,510590030,1,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/29/2022,AQS,510590030,1,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/1/2022,AQS,510590030,1,13.2,ug/m3 LC,53,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/4/2022,AQS,510590030,1,3.2,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/7/2022,AQS,510590030,1,10.3,ug/m3 LC,43,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/10/2022,AQS,510590030,1,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/13/2022,AQS,510590030,1,7.2,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/16/2022,AQS,510590030,1,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/19/2022,AQS,510590030,1,4,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/22/2022,AQS,510590030,1,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/25/2022,AQS,510590030,1,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/28/2022,AQS,510590030,1,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/3/2022,AQS,510590030,1,3,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/6/2022,AQS,510590030,1,10.4,ug/m3 LC,43,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/9/2022,AQS,510590030,1,2.9,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/12/2022,AQS,510590030,1,4,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/15/2022,AQS,510590030,1,6.4,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/18/2022,AQS,510590030,1,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/21/2022,AQS,510590030,1,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/24/2022,AQS,510590030,1,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/27/2022,AQS,510590030,1,1.7,ug/m3 LC,7,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/30/2022,AQS,510590030,1,5.4,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/2/2022,AQS,510590030,1,3.3,ug/m3 LC,14,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/5/2022,AQS,510590030,1,7.2,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/8/2022,AQS,510590030,1,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/11/2022,AQS,510590030,1,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/14/2022,AQS,510590030,1,6.6,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/17/2022,AQS,510590030,1,3.2,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/20/2022,AQS,510590030,1,2.9,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/23/2022,AQS,510590030,1,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/26/2022,AQS,510590030,1,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/29/2022,AQS,510590030,1,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/2/2022,AQS,510590030,1,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/5/2022,AQS,510590030,1,4.5,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/8/2022,AQS,510590030,1,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/11/2022,AQS,510590030,1,6.3,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/14/2022,AQS,510590030,1,3.2,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/17/2022,AQS,510590030,1,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/20/2022,AQS,510590030,1,14,ug/m3 LC,55,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/23/2022,AQS,510590030,1,4.5,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/26/2022,AQS,510590030,1,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/29/2022,AQS,510590030,1,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/1/2022,AQS,510590030,1,12.3,ug/m3 LC,51,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/4/2022,AQS,510590030,1,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/7/2022,AQS,510590030,1,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/10/2022,AQS,510590030,1,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/13/2022,AQS,510590030,1,9.5,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/16/2022,AQS,510590030,1,8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/19/2022,AQS,510590030,1,4,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/22/2022,AQS,510590030,1,12.4,ug/m3 LC,52,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/25/2022,AQS,510590030,1,8.7,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/28/2022,AQS,510590030,1,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/1/2022,AQS,510590030,1,11,ug/m3 LC,46,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/4/2022,AQS,510590030,1,20,ug/m3 LC,68,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/7/2022,AQS,510590030,1,7,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/10/2022,AQS,510590030,1,7.2,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/13/2022,AQS,510590030,1,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/16/2022,AQS,510590030,1,8.1,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/19/2022,AQS,510590030,1,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/22/2022,AQS,510590030,1,11.2,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/25/2022,AQS,510590030,1,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/28/2022,AQS,510590030,1,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/31/2022,AQS,510590030,1,8.1,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/3/2022,AQS,510590030,1,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/6/2022,AQS,510590030,1,4.3,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/9/2022,AQS,510590030,1,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/12/2022,AQS,510590030,1,4.3,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/15/2022,AQS,510590030,1,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/18/2022,AQS,510590030,1,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/21/2022,AQS,510590030,1,3.7,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/24/2022,AQS,510590030,1,10.9,ug/m3 LC,45,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/27/2022,AQS,510590030,1,10.5,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/30/2022,AQS,510590030,1,4.7,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/2/2022,AQS,510590030,1,5.2,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/5/2022,AQS,510590030,1,5.8,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/8/2022,AQS,510590030,1,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/11/2022,AQS,510590030,1,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/14/2022,AQS,510590030,1,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/17/2022,AQS,510590030,1,9,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/23/2022,AQS,510590030,1,2.2,ug/m3 LC,9,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/26/2022,AQS,510590030,1,3.7,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/29/2022,AQS,510590030,1,2.8,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/2/2022,AQS,510590030,1,2.1,ug/m3 LC,9,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/5/2022,AQS,510590030,1,2.4,ug/m3 LC,10,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/8/2022,AQS,510590030,1,2.3,ug/m3 LC,10,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/11/2022,AQS,510590030,1,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/14/2022,AQS,510590030,1,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/17/2022,AQS,510590030,1,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/20/2022,AQS,510590030,1,3.7,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/23/2022,AQS,510590030,1,9,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/26/2022,AQS,510590030,1,4.6,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/29/2022,AQS,510590030,1,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/1/2022,AQS,510590030,1,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/4/2022,AQS,510590030,1,6.4,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/7/2022,AQS,510590030,1,5.1,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/10/2022,AQS,510590030,1,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/13/2022,AQS,510590030,1,2.1,ug/m3 LC,9,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/7/2022,AQS,510590030,1,7.6,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/10/2022,AQS,510590030,1,8.9,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/13/2022,AQS,510590030,1,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/16/2022,AQS,510590030,1,2.7,ug/m3 LC,11,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/22/2022,AQS,510590030,1,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/25/2022,AQS,510590030,1,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/28/2022,AQS,510590030,1,9.2,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/31/2022,AQS,510590030,1,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/1/2022,AQS,510590030,3,9.6,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/2/2022,AQS,510590030,3,3.5,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/6/2022,AQS,510590030,3,8.6,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/7/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/8/2022,AQS,510590030,3,9,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/9/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/10/2022,AQS,510590030,3,4.7,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/11/2022,AQS,510590030,3,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/12/2022,AQS,510590030,3,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/13/2022,AQS,510590030,3,11.2,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/14/2022,AQS,510590030,3,14.8,ug/m3 LC,57,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/15/2022,AQS,510590030,3,5.2,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/16/2022,AQS,510590030,3,8.1,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/17/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/18/2022,AQS,510590030,3,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/19/2022,AQS,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/20/2022,AQS,510590030,3,7.9,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/21/2022,AQS,510590030,3,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/22/2022,AQS,510590030,3,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/23/2022,AQS,510590030,3,11.3,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/24/2022,AQS,510590030,3,11.8,ug/m3 LC,49,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/25/2022,AQS,510590030,3,9.2,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/26/2022,AQS,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/27/2022,AQS,510590030,3,14.4,ug/m3 LC,56,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/28/2022,AQS,510590030,3,17,ug/m3 LC,61,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/29/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/30/2022,AQS,510590030,3,6.4,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/31/2022,AQS,510590030,3,11.3,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/1/2022,AQS,510590030,3,13.9,ug/m3 LC,55,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/2/2022,AQS,510590030,3,13,ug/m3 LC,53,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/3/2022,AQS,510590030,3,7.9,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/4/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/5/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/6/2022,AQS,510590030,3,6.3,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/7/2022,AQS,510590030,3,11.9,ug/m3 LC,50,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/8/2022,AQS,510590030,3,11.5,ug/m3 LC,48,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/9/2022,AQS,510590030,3,8.2,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/10/2022,AQS,510590030,3,4.6,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/11/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/12/2022,AQS,510590030,3,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/13/2022,AQS,510590030,3,9.2,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/14/2022,AQS,510590030,3,9.7,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/15/2022,AQS,510590030,3,11.2,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/16/2022,AQS,510590030,3,9.8,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/17/2022,AQS,510590030,3,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/18/2022,AQS,510590030,3,4,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/19/2022,AQS,510590030,3,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/20/2022,AQS,510590030,3,5,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/21/2022,AQS,510590030,3,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/22/2022,AQS,510590030,3,6.3,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/23/2022,AQS,510590030,3,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/24/2022,AQS,510590030,3,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/25/2022,AQS,510590030,3,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/26/2022,AQS,510590030,3,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/27/2022,AQS,510590030,3,9.9,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+2/28/2022,AQS,510590030,3,8.7,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/1/2022,AQS,510590030,3,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/2/2022,AQS,510590030,3,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/3/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/4/2022,AQS,510590030,3,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/5/2022,AQS,510590030,3,6.7,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/6/2022,AQS,510590030,3,13,ug/m3 LC,53,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/7/2022,AQS,510590030,3,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/8/2022,AQS,510590030,3,4,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/9/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/10/2022,AQS,510590030,3,9.5,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/11/2022,AQS,510590030,3,8.6,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/12/2022,AQS,510590030,3,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/13/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/14/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/15/2022,AQS,510590030,3,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/16/2022,AQS,510590030,3,8.5,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/17/2022,AQS,510590030,3,15.1,ug/m3 LC,57,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/18/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/19/2022,AQS,510590030,3,7.8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/20/2022,AQS,510590030,3,1.6,ug/m3 LC,7,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/21/2022,AQS,510590030,3,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/22/2022,AQS,510590030,3,9,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/23/2022,AQS,510590030,3,6.6,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/24/2022,AQS,510590030,3,11,ug/m3 LC,46,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/25/2022,AQS,510590030,3,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/26/2022,AQS,510590030,3,1.9,ug/m3 LC,8,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/27/2022,AQS,510590030,3,2.4,ug/m3 LC,10,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/28/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/29/2022,AQS,510590030,3,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/30/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+3/31/2022,AQS,510590030,3,9.1,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/1/2022,AQS,510590030,3,3.2,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/2/2022,AQS,510590030,3,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/3/2022,AQS,510590030,3,4.7,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/4/2022,AQS,510590030,3,11.2,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/5/2022,AQS,510590030,3,9.7,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/6/2022,AQS,510590030,3,3.5,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/7/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/8/2022,AQS,510590030,3,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/9/2022,AQS,510590030,3,2.4,ug/m3 LC,10,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/10/2022,AQS,510590030,3,2.7,ug/m3 LC,11,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/11/2022,AQS,510590030,3,5,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/12/2022,AQS,510590030,3,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/13/2022,AQS,510590030,3,9.1,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/14/2022,AQS,510590030,3,7.2,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/15/2022,AQS,510590030,3,3.2,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/16/2022,AQS,510590030,3,5.1,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/17/2022,AQS,510590030,3,4.1,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/19/2022,AQS,510590030,3,3.4,ug/m3 LC,14,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/20/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/21/2022,AQS,510590030,3,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/22/2022,AQS,510590030,3,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/23/2022,AQS,510590030,3,8.2,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/24/2022,AQS,510590030,3,10.3,ug/m3 LC,43,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/25/2022,AQS,510590030,3,11.6,ug/m3 LC,48,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/26/2022,AQS,510590030,3,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/27/2022,AQS,510590030,3,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/28/2022,AQS,510590030,3,3.9,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/29/2022,AQS,510590030,3,5.4,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+4/30/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/1/2022,AQS,510590030,3,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/2/2022,AQS,510590030,3,9.8,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/3/2022,AQS,510590030,3,12.5,ug/m3 LC,52,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/4/2022,AQS,510590030,3,8.2,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/5/2022,AQS,510590030,3,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/6/2022,AQS,510590030,3,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/7/2022,AQS,510590030,3,1.3,ug/m3 LC,5,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/8/2022,AQS,510590030,3,5,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/9/2022,AQS,510590030,3,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/10/2022,AQS,510590030,3,5.1,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/11/2022,AQS,510590030,3,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/12/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/13/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/14/2022,AQS,510590030,3,3.7,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/15/2022,AQS,510590030,3,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/16/2022,AQS,510590030,3,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/17/2022,AQS,510590030,3,5.2,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/18/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/19/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/20/2022,AQS,510590030,3,13.8,ug/m3 LC,55,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/21/2022,AQS,510590030,3,12.4,ug/m3 LC,52,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/22/2022,AQS,510590030,3,9.2,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/23/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/24/2022,AQS,510590030,3,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/25/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/26/2022,AQS,510590030,3,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/27/2022,AQS,510590030,3,6.7,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/28/2022,AQS,510590030,3,5.1,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/29/2022,AQS,510590030,3,7,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/30/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+5/31/2022,AQS,510590030,3,13.2,ug/m3 LC,53,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/1/2022,AQS,510590030,3,13.7,ug/m3 LC,54,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/2/2022,AQS,510590030,3,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/3/2022,AQS,510590030,3,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/4/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/5/2022,AQS,510590030,3,4.7,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/6/2022,AQS,510590030,3,4.3,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/7/2022,AQS,510590030,3,6,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/8/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/9/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/10/2022,AQS,510590030,3,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/11/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/12/2022,AQS,510590030,3,7.2,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/13/2022,AQS,510590030,3,8.9,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/14/2022,AQS,510590030,3,10.6,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/15/2022,AQS,510590030,3,10,ug/m3 LC,42,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/16/2022,AQS,510590030,3,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/17/2022,AQS,510590030,3,7.9,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/18/2022,AQS,510590030,3,4.6,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/19/2022,AQS,510590030,3,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/20/2022,AQS,510590030,3,5,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/21/2022,AQS,510590030,3,6.6,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/22/2022,AQS,510590030,3,10.4,ug/m3 LC,43,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/23/2022,AQS,510590030,3,3.8,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/24/2022,AQS,510590030,3,6.7,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/25/2022,AQS,510590030,3,8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/26/2022,AQS,510590030,3,6.9,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/27/2022,AQS,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/28/2022,AQS,510590030,3,4.5,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/29/2022,AQS,510590030,3,6.9,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+6/30/2022,AQS,510590030,3,10.7,ug/m3 LC,45,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/1/2022,AQS,510590030,3,9.6,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/2/2022,AQS,510590030,3,5.4,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/3/2022,AQS,510590030,3,9.3,ug/m3 LC,39,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/4/2022,AQS,510590030,3,15.2,ug/m3 LC,58,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/5/2022,AQS,510590030,3,11.8,ug/m3 LC,49,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/6/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/7/2022,AQS,510590030,3,6,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/8/2022,AQS,510590030,3,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/9/2022,AQS,510590030,3,5.8,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/10/2022,AQS,510590030,3,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/11/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/12/2022,AQS,510590030,3,6.3,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/13/2022,AQS,510590030,3,7.8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/14/2022,AQS,510590030,3,8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/15/2022,AQS,510590030,3,9.5,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/16/2022,AQS,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/17/2022,AQS,510590030,3,8.6,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/18/2022,AQS,510590030,3,7,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/19/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/20/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/21/2022,AQS,510590030,3,9.9,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/22/2022,AQS,510590030,3,12.3,ug/m3 LC,51,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/23/2022,AQS,510590030,3,11.9,ug/m3 LC,50,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/24/2022,AQS,510590030,3,8.9,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/25/2022,AQS,510590030,3,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/26/2022,AQS,510590030,3,8.7,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/27/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/28/2022,AQS,510590030,3,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/29/2022,AQS,510590030,3,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/30/2022,AQS,510590030,3,5.6,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+7/31/2022,AQS,510590030,3,7.2,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/1/2022,AQS,510590030,3,6,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/2/2022,AQS,510590030,3,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/3/2022,AQS,510590030,3,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/4/2022,AQS,510590030,3,8.7,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/5/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/6/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/7/2022,AQS,510590030,3,4.5,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/8/2022,AQS,510590030,3,4.7,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/9/2022,AQS,510590030,3,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/10/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/11/2022,AQS,510590030,3,6.4,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/12/2022,AQS,510590030,3,5,ug/m3 LC,21,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/13/2022,AQS,510590030,3,4,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/14/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/15/2022,AQS,510590030,3,5.2,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/16/2022,AQS,510590030,3,5.2,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/19/2022,AQS,510590030,3,8.1,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/24/2022,AQS,510590030,3,9.7,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/25/2022,AQS,510590030,3,10.8,ug/m3 LC,45,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/26/2022,AQS,510590030,3,10.4,ug/m3 LC,43,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/27/2022,AQS,510590030,3,11.1,ug/m3 LC,46,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/28/2022,AQS,510590030,3,11,ug/m3 LC,46,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/29/2022,AQS,510590030,3,6.5,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/30/2022,AQS,510590030,3,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+8/31/2022,AQS,510590030,3,8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/1/2022,AQS,510590030,3,6.9,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/2/2022,AQS,510590030,3,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/3/2022,AQS,510590030,3,6.4,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/4/2022,AQS,510590030,3,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/5/2022,AQS,510590030,3,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/6/2022,AQS,510590030,3,3.5,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/7/2022,AQS,510590030,3,4.4,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/8/2022,AQS,510590030,3,6.3,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/9/2022,AQS,510590030,3,6.9,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/14/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/15/2022,AQS,510590030,3,9.1,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/16/2022,AQS,510590030,3,8.6,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/17/2022,AQS,510590030,3,9.8,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/18/2022,AQS,510590030,3,8.5,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/19/2022,AQS,510590030,3,11.6,ug/m3 LC,48,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/20/2022,AQS,510590030,3,10.5,ug/m3 LC,44,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/21/2022,AQS,510590030,3,11.4,ug/m3 LC,48,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/22/2022,AQS,510590030,3,7.8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/23/2022,AQS,510590030,3,2.9,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/24/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/25/2022,AQS,510590030,3,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/26/2022,AQS,510590030,3,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/27/2022,AQS,510590030,3,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/28/2022,AQS,510590030,3,4.2,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/29/2022,AQS,510590030,3,4.1,ug/m3 LC,17,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+9/30/2022,AQS,510590030,3,5.4,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/1/2022,AQS,510590030,3,3.9,ug/m3 LC,16,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/2/2022,AQS,510590030,3,2.9,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/3/2022,AQS,510590030,3,3,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/4/2022,AQS,510590030,3,2.7,ug/m3 LC,11,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/5/2022,AQS,510590030,3,3.1,ug/m3 LC,13,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/6/2022,AQS,510590030,3,5.5,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/7/2022,AQS,510590030,3,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/8/2022,AirNow,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/9/2022,AirNow,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/10/2022,AirNow,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/13/2022,AQS,510590030,3,6.8,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/14/2022,AQS,510590030,3,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/15/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/16/2022,AQS,510590030,3,8.7,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/17/2022,AQS,510590030,3,8.3,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/18/2022,AQS,510590030,3,3.7,ug/m3 LC,15,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/19/2022,AQS,510590030,3,2.9,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/20/2022,AQS,510590030,3,4.7,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/21/2022,AQS,510590030,3,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/22/2022,AQS,510590030,3,11,ug/m3 LC,46,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/23/2022,AQS,510590030,3,11,ug/m3 LC,46,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/24/2022,AQS,510590030,3,7.3,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/25/2022,AQS,510590030,3,11.4,ug/m3 LC,48,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/26/2022,AQS,510590030,3,7.6,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/27/2022,AQS,510590030,3,2.6,ug/m3 LC,11,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/28/2022,AQS,510590030,3,5.3,ug/m3 LC,22,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/29/2022,AQS,510590030,3,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/30/2022,AQS,510590030,3,10.9,ug/m3 LC,45,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+10/31/2022,AQS,510590030,3,9,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/1/2022,AQS,510590030,3,8.1,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/2/2022,AQS,510590030,3,10.8,ug/m3 LC,45,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/3/2022,AQS,510590030,3,12.3,ug/m3 LC,51,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/4/2022,AQS,510590030,3,9.9,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/5/2022,AQS,510590030,3,7.9,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/6/2022,AQS,510590030,3,8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/7/2022,AQS,510590030,3,5.9,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/8/2022,AQS,510590030,3,4.8,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/9/2022,AQS,510590030,3,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/10/2022,AQS,510590030,3,9.2,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/11/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/12/2022,AQS,510590030,3,8.9,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/13/2022,AQS,510590030,3,2.8,ug/m3 LC,12,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/14/2022,AQS,510590030,3,5.7,ug/m3 LC,24,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/15/2022,AQS,510590030,3,8.6,ug/m3 LC,36,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/16/2022,AQS,510590030,3,6.7,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/17/2022,AQS,510590030,3,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/18/2022,AQS,510590030,3,7.5,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/19/2022,AQS,510590030,3,7.9,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/20/2022,AQS,510590030,3,6.1,ug/m3 LC,25,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/21/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/22/2022,AQS,510590030,3,7.1,ug/m3 LC,30,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/23/2022,AQS,510590030,3,11.2,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/24/2022,AQS,510590030,3,19.9,ug/m3 LC,67,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/25/2022,AQS,510590030,3,9.5,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/26/2022,AQS,510590030,3,7.7,ug/m3 LC,32,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/27/2022,AQS,510590030,3,9.7,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/28/2022,AQS,510590030,3,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/29/2022,AQS,510590030,3,6.6,ug/m3 LC,28,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+11/30/2022,AQS,510590030,3,4.5,ug/m3 LC,19,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/1/2022,AQS,510590030,3,5.4,ug/m3 LC,23,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/2/2022,AQS,510590030,3,8.4,ug/m3 LC,35,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/3/2022,AQS,510590030,3,6.4,ug/m3 LC,27,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/4/2022,AQS,510590030,3,9.5,ug/m3 LC,40,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/5/2022,AQS,510590030,3,11.2,ug/m3 LC,47,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/6/2022,AQS,510590030,3,13.3,ug/m3 LC,54,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/7/2022,AQS,510590030,3,12.5,ug/m3 LC,52,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/8/2022,AQS,510590030,3,6.9,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/9/2022,AQS,510590030,3,8.1,ug/m3 LC,34,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/10/2022,AQS,510590030,3,11.6,ug/m3 LC,48,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/11/2022,AQS,510590030,3,12.3,ug/m3 LC,51,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/12/2022,AQS,510590030,3,7,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/13/2022,AQS,510590030,3,8.8,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/14/2022,AQS,510590030,3,10.7,ug/m3 LC,45,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/15/2022,AQS,510590030,3,7.8,ug/m3 LC,33,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/16/2022,AQS,510590030,3,4.9,ug/m3 LC,20,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/17/2022,AQS,510590030,3,6.2,ug/m3 LC,26,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/18/2022,AQS,510590030,3,7,ug/m3 LC,29,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/19/2022,AQS,510590030,3,7.4,ug/m3 LC,31,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/20/2022,AQS,510590030,3,13.2,ug/m3 LC,53,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/21/2022,AQS,510590030,3,15.4,ug/m3 LC,58,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/22/2022,AQS,510590030,3,9,ug/m3 LC,38,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/23/2022,AQS,510590030,3,4.3,ug/m3 LC,18,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/24/2022,AQS,510590030,3,8.9,ug/m3 LC,37,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/25/2022,AQS,510590030,3,12.1,ug/m3 LC,51,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/26/2022,AQS,510590030,3,9.8,ug/m3 LC,41,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/27/2022,AQS,510590030,3,11.8,ug/m3 LC,49,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/28/2022,AQS,510590030,3,13,ug/m3 LC,53,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/29/2022,AQS,510590030,3,15.7,ug/m3 LC,59,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/30/2022,AQS,510590030,3,13.4,ug/m3 LC,54,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+12/31/2022,AQS,510590030,3,9.3,ug/m3 LC,39,Lee District Park,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.77335,-77.10468
+1/1/2022,AQS,510590031,3,7.6,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/2/2022,AQS,510590031,3,4.4,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/3/2022,AQS,510590031,3,3.4,ug/m3 LC,14,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/4/2022,AQS,510590031,3,10,ug/m3 LC,42,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/5/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/6/2022,AQS,510590031,3,11.8,ug/m3 LC,49,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/7/2022,AQS,510590031,3,9.2,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/8/2022,AQS,510590031,3,9.1,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/9/2022,AQS,510590031,3,10.2,ug/m3 LC,43,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/10/2022,AQS,510590031,3,4.8,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/11/2022,AQS,510590031,3,6.7,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/12/2022,AQS,510590031,3,8.4,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/13/2022,AQS,510590031,3,19.3,ug/m3 LC,66,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/14/2022,AQS,510590031,3,16.2,ug/m3 LC,60,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/15/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/16/2022,AQS,510590031,3,9.9,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/17/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/18/2022,AQS,510590031,3,7.2,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/19/2022,AQS,510590031,3,9.8,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/20/2022,AQS,510590031,3,9,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/21/2022,AQS,510590031,3,6.1,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/22/2022,AQS,510590031,3,9.7,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/23/2022,AQS,510590031,3,13.4,ug/m3 LC,54,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/24/2022,AQS,510590031,3,15.1,ug/m3 LC,57,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/25/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/26/2022,AQS,510590031,3,10.4,ug/m3 LC,43,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/27/2022,AQS,510590031,3,17.9,ug/m3 LC,63,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/28/2022,AQS,510590031,3,18.1,ug/m3 LC,64,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/29/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/30/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+1/31/2022,AQS,510590031,3,15.7,ug/m3 LC,59,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/1/2022,AQS,510590031,3,17.3,ug/m3 LC,62,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/2/2022,AQS,510590031,3,13.2,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/3/2022,AQS,510590031,3,8.5,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/4/2022,AQS,510590031,3,3.8,ug/m3 LC,16,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/5/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/6/2022,AQS,510590031,3,8.6,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/7/2022,AQS,510590031,3,11.9,ug/m3 LC,50,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/8/2022,AQS,510590031,3,11,ug/m3 LC,46,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/9/2022,AQS,510590031,3,12.4,ug/m3 LC,52,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/10/2022,AQS,510590031,3,8.5,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/11/2022,AQS,510590031,3,10.7,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/12/2022,AQS,510590031,3,9.2,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/13/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/14/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/15/2022,AQS,510590031,3,13.1,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/16/2022,AQS,510590031,3,12.3,ug/m3 LC,51,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/17/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/18/2022,AQS,510590031,3,5.4,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/19/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/20/2022,AQS,510590031,3,4.8,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/21/2022,AQS,510590031,3,9.3,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/22/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/23/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/24/2022,AQS,510590031,3,8.6,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/25/2022,AQS,510590031,3,5.7,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/26/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/27/2022,AQS,510590031,3,11,ug/m3 LC,46,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+2/28/2022,AQS,510590031,3,9.3,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/1/2022,AQS,510590031,3,8.9,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/2/2022,AQS,510590031,3,9.4,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/3/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/4/2022,AQS,510590031,3,7.1,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/5/2022,AQS,510590031,3,8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/6/2022,AQS,510590031,3,11.4,ug/m3 LC,48,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/7/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/8/2022,AQS,510590031,3,4.6,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/9/2022,AQS,510590031,3,6.6,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/10/2022,AQS,510590031,3,9.8,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/11/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/12/2022,AQS,510590031,3,6,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/13/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/14/2022,AQS,510590031,3,8.1,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/15/2022,AQS,510590031,3,10.1,ug/m3 LC,42,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/16/2022,AQS,510590031,3,12.9,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/17/2022,AQS,510590031,3,12.9,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/18/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/19/2022,AQS,510590031,3,7.5,ug/m3 LC,31,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/20/2022,AQS,510590031,3,2.7,ug/m3 LC,11,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/21/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/22/2022,AQS,510590031,3,11.5,ug/m3 LC,48,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/23/2022,AQS,510590031,3,6,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/24/2022,AQS,510590031,3,5.9,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/25/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/26/2022,AQS,510590031,3,2.3,ug/m3 LC,10,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/27/2022,AQS,510590031,3,2.7,ug/m3 LC,11,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/28/2022,AQS,510590031,3,3.4,ug/m3 LC,14,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/29/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/30/2022,AQS,510590031,3,10.7,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+3/31/2022,AQS,510590031,3,9.3,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/1/2022,AQS,510590031,3,4.6,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/2/2022,AQS,510590031,3,4.5,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/3/2022,AQS,510590031,3,5.8,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/4/2022,AQS,510590031,3,10.2,ug/m3 LC,43,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/5/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/6/2022,AQS,510590031,3,3.3,ug/m3 LC,14,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/7/2022,AQS,510590031,3,4,ug/m3 LC,17,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/8/2022,AQS,510590031,3,5.8,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/9/2022,AQS,510590031,3,2.9,ug/m3 LC,12,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/10/2022,AQS,510590031,3,3.6,ug/m3 LC,15,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/11/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/12/2022,AQS,510590031,3,4.8,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/13/2022,AQS,510590031,3,10.8,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/14/2022,AQS,510590031,3,9,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/15/2022,AQS,510590031,3,5,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/16/2022,AQS,510590031,3,7.1,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/17/2022,AQS,510590031,3,5.8,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/18/2022,AQS,510590031,3,3.4,ug/m3 LC,14,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/19/2022,AQS,510590031,3,3.4,ug/m3 LC,14,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/20/2022,AQS,510590031,3,5,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/21/2022,AQS,510590031,3,7.1,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/22/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/23/2022,AQS,510590031,3,9.5,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/24/2022,AQS,510590031,3,11.2,ug/m3 LC,47,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/25/2022,AQS,510590031,3,10.6,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/26/2022,AQS,510590031,3,9.7,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/28/2022,AQS,510590031,3,4.2,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/29/2022,AQS,510590031,3,6.7,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+4/30/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/1/2022,AQS,510590031,3,9.8,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/2/2022,AQS,510590031,3,10.7,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/3/2022,AQS,510590031,3,13.2,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/4/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/5/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/6/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/7/2022,AQS,510590031,3,3.4,ug/m3 LC,14,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/8/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/9/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/10/2022,AQS,510590031,3,6,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/11/2022,AQS,510590031,3,8.9,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/12/2022,AQS,510590031,3,7.1,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/13/2022,AQS,510590031,3,5.9,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/14/2022,AQS,510590031,3,4.3,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/15/2022,AQS,510590031,3,5.1,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/16/2022,AQS,510590031,3,6,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/17/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/18/2022,AQS,510590031,3,4.2,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/19/2022,AQS,510590031,3,6.6,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/20/2022,AQS,510590031,3,14.7,ug/m3 LC,56,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/21/2022,AQS,510590031,3,12.8,ug/m3 LC,52,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/22/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/23/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/24/2022,AQS,510590031,3,5.7,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/25/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/26/2022,AQS,510590031,3,6.6,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/27/2022,AQS,510590031,3,7.2,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/28/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/29/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/30/2022,AQS,510590031,3,8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+5/31/2022,AQS,510590031,3,13.5,ug/m3 LC,54,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/1/2022,AQS,510590031,3,13.6,ug/m3 LC,54,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/2/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/3/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/4/2022,AQS,510590031,3,6.6,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/5/2022,AQS,510590031,3,5,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/6/2022,AQS,510590031,3,4.7,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/7/2022,AQS,510590031,3,8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/8/2022,AQS,510590031,3,9.4,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/9/2022,AQS,510590031,3,6.3,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/10/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/11/2022,AQS,510590031,3,8.1,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/14/2022,AQS,510590031,3,10.7,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/15/2022,AQS,510590031,3,11.1,ug/m3 LC,46,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/16/2022,AQS,510590031,3,8.3,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/17/2022,AQS,510590031,3,8.6,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/18/2022,AQS,510590031,3,4.7,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/19/2022,AQS,510590031,3,4.8,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/20/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/21/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/22/2022,AQS,510590031,3,11.7,ug/m3 LC,49,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/23/2022,AQS,510590031,3,5,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/24/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/25/2022,AQS,510590031,3,8.9,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/26/2022,AQS,510590031,3,7.3,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/27/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/28/2022,AQS,510590031,3,4.9,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/29/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+6/30/2022,AQS,510590031,3,11.5,ug/m3 LC,48,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/1/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/2/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/3/2022,AQS,510590031,3,12.8,ug/m3 LC,52,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/4/2022,AQS,510590031,3,14.9,ug/m3 LC,57,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/5/2022,AQS,510590031,3,11.1,ug/m3 LC,46,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/6/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/7/2022,AQS,510590031,3,6.8,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/8/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/9/2022,AQS,510590031,3,6.7,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/10/2022,AQS,510590031,3,8.7,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/11/2022,AQS,510590031,3,8.4,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/12/2022,AQS,510590031,3,6.8,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/13/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/14/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/15/2022,AQS,510590031,3,9.8,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/16/2022,AQS,510590031,3,9.1,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/17/2022,AQS,510590031,3,8.3,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/18/2022,AQS,510590031,3,8.1,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/19/2022,AQS,510590031,3,7.6,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/20/2022,AQS,510590031,3,8.7,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/21/2022,AQS,510590031,3,9.8,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/22/2022,AQS,510590031,3,12.2,ug/m3 LC,51,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/23/2022,AQS,510590031,3,11.9,ug/m3 LC,50,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/24/2022,AQS,510590031,3,9.1,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/25/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/26/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/27/2022,AQS,510590031,3,7.7,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/28/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/29/2022,AQS,510590031,3,7.6,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/30/2022,AQS,510590031,3,5.7,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+7/31/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/1/2022,AQS,510590031,3,5.8,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/2/2022,AQS,510590031,3,7.3,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/3/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/4/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/5/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/6/2022,AQS,510590031,3,4.9,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/7/2022,AQS,510590031,3,4.6,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/8/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/9/2022,AQS,510590031,3,6,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/10/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/11/2022,AQS,510590031,3,6.3,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/12/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/13/2022,AQS,510590031,3,4.5,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/14/2022,AQS,510590031,3,5.9,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/15/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/16/2022,AQS,510590031,3,5.8,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/17/2022,AQS,510590031,3,7,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/18/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/19/2022,AQS,510590031,3,8.7,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/20/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/21/2022,AQS,510590031,3,4.8,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/22/2022,AQS,510590031,3,5.6,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/23/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/24/2022,AQS,510590031,3,9.3,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/25/2022,AQS,510590031,3,10.6,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/26/2022,AQS,510590031,3,10,ug/m3 LC,42,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/27/2022,AQS,510590031,3,10.7,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/28/2022,AQS,510590031,3,10.9,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/29/2022,AQS,510590031,3,7.2,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/30/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+8/31/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/1/2022,AQS,510590031,3,6.4,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/2/2022,AQS,510590031,3,6.2,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/3/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/4/2022,AQS,510590031,3,7.1,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/5/2022,AQS,510590031,3,6.6,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/6/2022,AQS,510590031,3,4.7,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/7/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/8/2022,AQS,510590031,3,6.2,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/9/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/10/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/11/2022,AQS,510590031,3,6.2,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/12/2022,AQS,510590031,3,5.7,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/13/2022,AQS,510590031,3,6.2,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/14/2022,AQS,510590031,3,6,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/15/2022,AQS,510590031,3,8.9,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/16/2022,AQS,510590031,3,9,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/17/2022,AQS,510590031,3,10.2,ug/m3 LC,43,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/18/2022,AQS,510590031,3,8.7,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/19/2022,AQS,510590031,3,11.5,ug/m3 LC,48,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/20/2022,AQS,510590031,3,10.2,ug/m3 LC,43,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/21/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/22/2022,AQS,510590031,3,7.5,ug/m3 LC,31,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/23/2022,AQS,510590031,3,3,ug/m3 LC,13,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/24/2022,AQS,510590031,3,4.6,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/25/2022,AQS,510590031,3,7,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/26/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/27/2022,AQS,510590031,3,3.9,ug/m3 LC,16,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/28/2022,AQS,510590031,3,4.1,ug/m3 LC,17,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/29/2022,AQS,510590031,3,4.3,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+9/30/2022,AQS,510590031,3,5.6,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/1/2022,AQS,510590031,3,5,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/2/2022,AQS,510590031,3,4.3,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/3/2022,AQS,510590031,3,4.2,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/4/2022,AQS,510590031,3,3.1,ug/m3 LC,13,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/5/2022,AQS,510590031,3,3.2,ug/m3 LC,13,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/6/2022,AQS,510590031,3,5.3,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/7/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/8/2022,AQS,510590031,3,4.5,ug/m3 LC,19,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/9/2022,AQS,510590031,3,7.8,ug/m3 LC,33,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/10/2022,AQS,510590031,3,7.3,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/11/2022,AQS,510590031,3,7.1,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/12/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/13/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/14/2022,AQS,510590031,3,7.5,ug/m3 LC,31,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/15/2022,AQS,510590031,3,9.9,ug/m3 LC,41,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/16/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/17/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/18/2022,AQS,510590031,3,3.6,ug/m3 LC,15,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/19/2022,AQS,510590031,3,2.8,ug/m3 LC,12,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/20/2022,AQS,510590031,3,5.2,ug/m3 LC,22,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/21/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/22/2022,AQS,510590031,3,12.7,ug/m3 LC,52,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/23/2022,AQS,510590031,3,13.1,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/24/2022,AQS,510590031,3,6.9,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/25/2022,AQS,510590031,3,11.9,ug/m3 LC,50,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/26/2022,AQS,510590031,3,7.6,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/27/2022,AQS,510590031,3,3,ug/m3 LC,13,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/28/2022,AQS,510590031,3,5.8,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/29/2022,AQS,510590031,3,8.1,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/30/2022,AQS,510590031,3,11.8,ug/m3 LC,49,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+10/31/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/1/2022,AQS,510590031,3,8.4,ug/m3 LC,35,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/2/2022,AQS,510590031,3,11.5,ug/m3 LC,48,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/3/2022,AQS,510590031,3,12.3,ug/m3 LC,51,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/4/2022,AQS,510590031,3,10.1,ug/m3 LC,42,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/5/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/6/2022,AQS,510590031,3,8.9,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/7/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/8/2022,AQS,510590031,3,5,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/9/2022,AQS,510590031,3,6.1,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/10/2022,AQS,510590031,3,9.4,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/11/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/12/2022,AQS,510590031,3,8.2,ug/m3 LC,34,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/13/2022,AQS,510590031,3,2.5,ug/m3 LC,10,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/14/2022,AQS,510590031,3,6.8,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/15/2022,AQS,510590031,3,9.3,ug/m3 LC,39,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/16/2022,AQS,510590031,3,6.7,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/17/2022,AQS,510590031,3,7,ug/m3 LC,29,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/18/2022,AQS,510590031,3,7.5,ug/m3 LC,31,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/19/2022,AQS,510590031,3,8.7,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/20/2022,AQS,510590031,3,6.6,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/21/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/22/2022,AQS,510590031,3,8.9,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/23/2022,AQS,510590031,3,15.4,ug/m3 LC,58,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/24/2022,AQS,510590031,3,21.6,ug/m3 LC,71,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/25/2022,AQS,510590031,3,10.2,ug/m3 LC,43,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/26/2022,AQS,510590031,3,7.6,ug/m3 LC,32,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/27/2022,AQS,510590031,3,9.6,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/28/2022,AQS,510590031,3,4.8,ug/m3 LC,20,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/29/2022,AQS,510590031,3,7.2,ug/m3 LC,30,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+11/30/2022,AQS,510590031,3,5.1,ug/m3 LC,21,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/1/2022,AQS,510590031,3,5.7,ug/m3 LC,24,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/2/2022,AQS,510590031,3,9,ug/m3 LC,38,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/3/2022,AQS,510590031,3,6.2,ug/m3 LC,26,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/4/2022,AQS,510590031,3,11.2,ug/m3 LC,47,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/5/2022,AQS,510590031,3,14.5,ug/m3 LC,56,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/6/2022,AQS,510590031,3,14.5,ug/m3 LC,56,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/7/2022,AQS,510590031,3,13.2,ug/m3 LC,53,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/8/2022,AQS,510590031,3,7.5,ug/m3 LC,31,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/9/2022,AQS,510590031,3,8.6,ug/m3 LC,36,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/10/2022,AQS,510590031,3,11.7,ug/m3 LC,49,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/11/2022,AQS,510590031,3,12.4,ug/m3 LC,52,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/12/2022,AQS,510590031,3,6.5,ug/m3 LC,27,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/13/2022,AQS,510590031,3,10.1,ug/m3 LC,42,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/14/2022,AQS,510590031,3,11.6,ug/m3 LC,48,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/15/2022,AQS,510590031,3,10.5,ug/m3 LC,44,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/16/2022,AQS,510590031,3,4.3,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/17/2022,AQS,510590031,3,5.5,ug/m3 LC,23,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/18/2022,AQS,510590031,3,6.1,ug/m3 LC,25,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/19/2022,AQS,510590031,3,6.7,ug/m3 LC,28,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/20/2022,AQS,510590031,3,12.5,ug/m3 LC,52,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/21/2022,AQS,510590031,3,16,ug/m3 LC,59,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/22/2022,AQS,510590031,3,9.5,ug/m3 LC,40,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/23/2022,AQS,510590031,3,4.3,ug/m3 LC,18,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/24/2022,AQS,510590031,3,7.4,ug/m3 LC,31,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/25/2022,AQS,510590031,3,11.3,ug/m3 LC,47,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/26/2022,AQS,510590031,3,8.8,ug/m3 LC,37,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/27/2022,AQS,510590031,3,11.3,ug/m3 LC,47,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/28/2022,AQS,510590031,3,12.1,ug/m3 LC,51,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/29/2022,AQS,510590031,3,15.2,ug/m3 LC,58,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/30/2022,AQS,510590031,3,14,ug/m3 LC,55,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347
+12/31/2022,AQS,510590031,3,10.9,ug/m3 LC,45,Springfield Near Road Site,1,100,88101,PM2.5 - Local Conditions,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51,Virginia,59,Fairfax,38.76835,-77.18347

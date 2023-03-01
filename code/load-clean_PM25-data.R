@@ -35,16 +35,9 @@ pm25_raw <- lapply(pm25_files, read_data)
 test <- setNames(pm25_raw, data_names)
 names(pm25_raw) = data_names
 
-
-#HOW TO ACCESS DATAFRAMES FROM A LIST OF DATAFRAMES
-#names(test)
-#test[[1]]
-#test[["SLC_PM25_2021"]]
-
 pm25_cleaned <- lapply(pm25_raw, clean_data)
 
-pm25_converted <- lapply(pm25_cleaned, aggregate_data)
-
+pm25_aggregated <- lapply(pm25_cleaned, aggregate_data)
 
 
 

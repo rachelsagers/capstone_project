@@ -60,13 +60,58 @@ KNC_PM25_preandpost <- KNC_PM25_preandpost %>%
 #adding column with constant city value
 KNC_PM25_preandpost["city"] = "KNC"
 
+### RICHMOND, VA ###
+
+#Subsetting Richmond (RCH) data for pre and post implementation of free fares
+RCH_PM25_preandpost <- rbind(pm25_aggregated[["RCH_PM25_2019"]],pm25_aggregated[["RCH_PM25_2020"]],pm25_aggregated[["RCH_PM25_2021"]])
+
+#filtering by desired dates and categorizing by pre and post
+RCH_PM25_preandpost <- RCH_PM25_preandpost %>% 
+  filter(between(Date, as.Date('2019-03-01'), as.Date('2021-03-01'))) %>%
+  mutate(pre_or_post = case_when(Date < as.Date('2020-03-01') ~ "pre", 
+                                 Date >= as.Date('2020-03-01') ~ "post"))
+
+#adding column with constant city value
+RCH_PM25_preandpost["city"] = "RCH"
+
+### LOS ANGELES, CO ###
+
+#Subsetting Los Angeles (LAX) data for pre and post implementation of free fares
+LAX_PM25_preandpost <- rbind(pm25_aggregated[["LAX_PM25_2019"]],pm25_aggregated[["LAX_PM25_2020"]],pm25_aggregated[["LAX_PM25_2021"]])
+
+#filtering by desired dates and categorizing by pre and post
+LAX_PM25_preandpost <- LAX_PM25_preandpost %>% 
+  filter(between(Date, as.Date('2019-03-01'), as.Date('2021-03-01'))) %>%
+  mutate(pre_or_post = case_when(Date < as.Date('2020-03-01') ~ "pre", 
+                                 Date >= as.Date('2020-03-01') ~ "post"))
+
+#adding column with constant city value
+LAX_PM25_preandpost["city"] = "LAX"
+
+### TUSCON, AZ ###
+
+#Subsetting Tuscon (TUS) data for pre and post implementation of free fares
+TUS_PM25_preandpost <- rbind(pm25_aggregated[["TUS_PM25_2019"]],pm25_aggregated[["TUS_PM25_2020"]],pm25_aggregated[["TUS_PM25_2021"]])
+
+#filtering by desired dates and categorizing by pre and post
+TUS_PM25_preandpost <- TUS_PM25_preandpost %>% 
+  filter(between(Date, as.Date('2019-03-01'), as.Date('2021-03-01'))) %>%
+  mutate(pre_or_post = case_when(Date < as.Date('2020-03-01') ~ "pre", 
+                                 Date >= as.Date('2020-03-01') ~ "post"))
+
+#adding column with constant city value
+TUS_PM25_preandpost["city"] = "TUS"
+
 ### BOXPLOT CREATION ###
 
 #binding all cities into one dataframe to graph
 PM25_preandpost_boxplots <- rbind(SLC_PM25_preandpost,
                                   ALX_PM25_preandpost,
                                   ALB_PM25_preandpost,
-                                  KNC_PM25_preandpost)
+                                  KNC_PM25_preandpost,
+                                  RCH_PM25_preandpost,
+                                  LAX_PM25_preandpost,
+                                  TUS_PM25_preandpost)
 
 #ordering pre and post categories so pre comes before post on graph
 PM25_preandpost_boxplots$pre_or_post <- factor(PM25_preandpost_boxplots$pre_or_post, levels=c("pre","post"))

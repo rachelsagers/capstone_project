@@ -19,6 +19,7 @@ SLC_PM25_preandpost <- SLC_PM25_preandpost %>%
 #adding column with constant city value
 SLC_PM25_preandpost["city"] = "SLC"
 
+
 ### ALEXANDRIA, VA ###
 
 #Subsetting Alexandria (ALX) data for pre and post implementation of free fares
@@ -33,6 +34,7 @@ ALX_PM25_preandpost <- ALX_PM25_preandpost %>%
 #adding column with constant city value
 ALX_PM25_preandpost["city"] = "ALX"
 
+
 ### ALBUQUERQUE, NM ###
 
 #Subsetting Albuquerque (ALB)) data for pre and post implementation of free fares
@@ -45,6 +47,7 @@ ALB_PM25_preandpost <- ALB_PM25_preandpost %>%
 
 #adding column with constant city value
 ALB_PM25_preandpost["city"] = "ALB"
+
 
 ### KANSAS CITY, MO ###
 
@@ -60,6 +63,7 @@ KNC_PM25_preandpost <- KNC_PM25_preandpost %>%
 #adding column with constant city value
 KNC_PM25_preandpost["city"] = "KNC"
 
+
 ### RICHMOND, VA ###
 
 #Subsetting Richmond (RCH) data for pre and post implementation of free fares
@@ -74,7 +78,8 @@ RCH_PM25_preandpost <- RCH_PM25_preandpost %>%
 #adding column with constant city value
 RCH_PM25_preandpost["city"] = "RCH"
 
-### LOS ANGELES, CO ###
+
+### LOS ANGELES, CA ###
 
 #Subsetting Los Angeles (LAX) data for pre and post implementation of free fares
 LAX_PM25_preandpost <- rbind(pm25_aggregated[["LAX_PM25_2019"]],pm25_aggregated[["LAX_PM25_2020"]],pm25_aggregated[["LAX_PM25_2021"]])
@@ -87,6 +92,7 @@ LAX_PM25_preandpost <- LAX_PM25_preandpost %>%
 
 #adding column with constant city value
 LAX_PM25_preandpost["city"] = "LAX"
+
 
 ### TUSCON, AZ ###
 
@@ -101,6 +107,7 @@ TUS_PM25_preandpost <- TUS_PM25_preandpost %>%
 
 #adding column with constant city value
 TUS_PM25_preandpost["city"] = "TUS"
+
 
 ### BOXPLOT CREATION ###
 

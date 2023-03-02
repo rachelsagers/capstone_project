@@ -46,12 +46,27 @@ ALB_CO_preandpost <- ALB_CO_preandpost %>%
 #adding column with constant city value
 ALB_CO_preandpost["city"] = "ALB"
 
+### KANSAS CITY, MO ###
+
+#Subsetting Kansas City (KNC) data for pre and post implementation of free fares
+KNC_CO_preandpost <- rbind(co_aggregated[["KNC_CO_2019"]],co_aggregated[["KNC_CO_2020"]],co_aggregated[["KNC_CO_2021"]])
+
+#filtering by desired dates and categorizing by pre and post
+KNC_CO_preandpost <- KNC_CO_preandpost %>% 
+  filter(between(Date, as.Date('2019-03-01'), as.Date('2021-03-01'))) %>%
+  mutate(pre_or_post = case_when(Date < as.Date('2020-03-01') ~ "pre", 
+                                 Date >= as.Date('2020-03-01') ~ "post"))
+
+#adding column with constant city value
+KNC_CO_preandpost["city"] = "KNC"
+
 ### BOXPLOT CREATION ###
 
 #binding all cities into one dataframe to graph
 CO_preandpost_boxplots <- rbind(SLC_CO_preandpost,
                                 ALX_CO_preandpost,
-                                ALB_CO_preandpost)
+                                ALB_CO_preandpost,
+                                KNC_CO_preandpost)
 
 #ordering pre and post categories so pre comes before post on graph
 CO_preandpost_boxplots$pre_or_post <- factor(CO_preandpost_boxplots$pre_or_post, levels=c("pre","post"))

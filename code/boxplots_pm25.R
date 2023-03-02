@@ -46,12 +46,27 @@ ALB_PM25_preandpost <- ALB_PM25_preandpost %>%
 #adding column with constant city value
 ALB_PM25_preandpost["city"] = "ALB"
 
+### KANSAS CITY, MO ###
+
+#Subsetting Kansas City (KNC) data for pre and post implementation of free fares
+KNC_PM25_preandpost <- rbind(pm25_aggregated[["KNC_PM25_2019"]],pm25_aggregated[["KNC_PM25_2020"]],pm25_aggregated[["KNC_PM25_2021"]])
+
+#filtering by desired dates and categorizing by pre and post
+KNC_PM25_preandpost <- KNC_PM25_preandpost %>% 
+  filter(between(Date, as.Date('2019-03-01'), as.Date('2021-03-01'))) %>%
+  mutate(pre_or_post = case_when(Date < as.Date('2020-03-01') ~ "pre", 
+                                 Date >= as.Date('2020-03-01') ~ "post"))
+
+#adding column with constant city value
+KNC_PM25_preandpost["city"] = "KNC"
+
 ### BOXPLOT CREATION ###
 
 #binding all cities into one dataframe to graph
 PM25_preandpost_boxplots <- rbind(SLC_PM25_preandpost,
                                   ALX_PM25_preandpost,
-                                  ALB_PM25_preandpost)
+                                  ALB_PM25_preandpost,
+                                  KNC_PM25_preandpost)
 
 #ordering pre and post categories so pre comes before post on graph
 PM25_preandpost_boxplots$pre_or_post <- factor(PM25_preandpost_boxplots$pre_or_post, levels=c("pre","post"))

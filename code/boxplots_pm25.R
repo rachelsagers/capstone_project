@@ -109,6 +109,63 @@ TUS_PM25_preandpost <- TUS_PM25_preandpost %>%
 TUS_PM25_preandpost["city"] = "TUS"
 
 
+### MISSOULA, MT ###
+
+#Subsetting Missoula (MIS) data for pre and post implementation of free fares
+MIS_PM25_preandpost <- rbind(pm25_aggregated[["MIS_PM25_2014"]],pm25_aggregated[["MIS_PM25_2015"]])
+
+#filtering by desired dates and categorizing by pre and post
+MIS_PM25_preandpost <- MIS_PM25_preandpost %>% 
+  mutate(pre_or_post = case_when(Date < as.Date('2015-01-01') ~ "pre", 
+                                 Date >= as.Date('2015-01-01') ~ "post"))
+
+#adding column with constant city value
+MIS_PM25_preandpost["city"] = "MIS"
+
+
+### OLYMPIA, WA ###
+
+#Subsetting Olympia (OLY) data for pre and post implementation of free fares
+OLY_PM25_preandpost <- rbind(pm25_aggregated[["OLY_PM25_2019"]],pm25_aggregated[["OLY_PM25_2020"]])
+
+#filtering by desired dates and categorizing by pre and post
+OLY_PM25_preandpost <- OLY_PM25_preandpost %>% 
+  mutate(pre_or_post = case_when(Date < as.Date('2020-01-01') ~ "pre", 
+                                 Date >= as.Date('2020-01-01') ~ "post"))
+
+#adding column with constant city value
+OLY_PM25_preandpost["city"] = "OLY"
+
+
+### CORVALLIS, OR ###
+
+#Subsetting Corvallis (COR) data for pre and post implementation of free fares
+COR_PM25_preandpost <- rbind(pm25_aggregated[["COR_PM25_2010"]],pm25_aggregated[["COR_PM25_2011"]],pm25_aggregated[["COR_PM25_2012"]])
+
+#filtering by desired dates and categorizing by pre and post
+COR_PM25_preandpost <- COR_PM25_preandpost %>% 
+  filter(between(Date, as.Date('2010-02-01'), as.Date('2012-02-01'))) %>%
+  mutate(pre_or_post = case_when(Date < as.Date('2011-02-01') ~ "pre", 
+                                 Date >= as.Date('2011-02-01') ~ "post"))
+
+#adding column with constant city value
+COR_PM25_preandpost["city"] = "COR"
+
+
+### CHAPEL HILL, NC ###
+
+#Subsetting Chapel Hill (CHP) data for pre and post implementation of free fares
+CHP_PM25_preandpost <- rbind(pm25_aggregated[["CHP_PM25_2001"]],pm25_aggregated[["CHP_PM25_2002"]])
+
+#filtering by desired dates and categorizing by pre and post
+CHP_PM25_preandpost <- CHP_PM25_preandpost %>% 
+  mutate(pre_or_post = case_when(Date < as.Date('2002-01-01') ~ "pre", 
+                                 Date >= as.Date('2002-01-01') ~ "post"))
+
+#adding column with constant city value
+CHP_PM25_preandpost["city"] = "CHP"
+
+
 ### BOXPLOT CREATION ###
 
 #binding all cities into one dataframe to graph
@@ -118,11 +175,23 @@ PM25_preandpost_boxplots <- rbind(SLC_PM25_preandpost,
                                   KNC_PM25_preandpost,
                                   RCH_PM25_preandpost,
                                   LAX_PM25_preandpost,
-                                  TUS_PM25_preandpost)
+                                  TUS_PM25_preandpost,
+                                  MIS_PM25_preandpost,
+                                  OLY_PM25_preandpost,
+                                  COR_PM25_preandpost,
+                                  CHP_PM25_preandpost)
 
 #ordering pre and post categories so pre comes before post on graph
 PM25_preandpost_boxplots$pre_or_post <- factor(PM25_preandpost_boxplots$pre_or_post, levels=c("pre","post"))
 
 #boxplots with all cities
-ggplot(PM25_preandpost_boxplots, aes(x=city, y=daily_mean, fill=pre_or_post)) + 
-         geom_boxplot()
+ggplot(PM25_preandpost_boxplots, aes(x=city, y=daily_mean, fill=pre_or_post)) +
+  geom_boxplot() +
+  xlab("City") +
+  ylab("Mean Concentration") +
+  labs(fill = "Pre or Post",
+       title = "Mean PM2.5 Concentration Pre and Post Free Transit Implementation") +
+  theme(
+    legend.position = "bottom"
+  )
+          

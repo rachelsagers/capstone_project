@@ -123,4 +123,11 @@ CO_preandpost_boxplots$pre_or_post <- factor(CO_preandpost_boxplots$pre_or_post,
 
 #CO boxplots with all cities
 ggplot(CO_preandpost_boxplots, aes(x=city, y=daily_mean, fill=pre_or_post)) + 
-  geom_boxplot()
+  geom_boxplot() +
+  xlab("City") +
+  ylab("Mean Concentration") +
+  labs(fill = "Pre or Post",
+       title = "Mean CO Concentration Pre and Post Free Transit Implementation") +
+  theme(
+    legend.position = "bottom"
+  )

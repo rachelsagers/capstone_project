@@ -86,14 +86,14 @@ SLC_PM25_bar <- ggplot(SLC_PM25_over_time, aes(x=year, y=daily_mean, fill=pre_or
 SLC_NO2_bar <- ggplot(SLC_NO2_over_time, aes(x=year, y=daily_mean, fill=pre_or_post)) +
   geom_bar(stat = "identity") +
   xlab("Year") +
-  ylab("Daily Mean (ppb)") +
+  ylab("Daily 1-hr Max Conc (ppb)") +
   labs(title="NO2") +
   theme(legend.position = "none")
 
 SLC_CO_bar <- ggplot(SLC_CO_over_time, aes(x=year, y=daily_mean, fill=pre_or_post)) +
   geom_bar(stat = "identity") +
   xlab("Year") +
-  ylab("Daily Mean (ppm)") +
+  ylab("Daily 8-hr Max Conc (ppm)") +
   labs(title="CO") +
   theme(legend.position = "none")
 

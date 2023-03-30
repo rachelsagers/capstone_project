@@ -38,6 +38,3 @@ names(pm25_raw) = data_names
 pm25_cleaned <- lapply(pm25_raw, clean_data)
 
 pm25_aggregated <- lapply(pm25_cleaned, aggregate_data)
-
-
-

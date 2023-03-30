@@ -19,7 +19,9 @@ SLC_PM25_over_time <- SLC_PM25_over_time %>% mutate(pollutant = "PM2.5")
 SLC_PM25_over_time <- SLC_PM25_over_time %>%
   filter(month == "02") %>%
   group_by(year) %>%
-  summarise(daily_mean = mean(daily_mean))
+  summarise(daily_mean = mean(daily_mean)) %>%
+  mutate(pre_or_post = case_when(year == 2022 ~ "post",
+                                 year < 2022 ~ "pre"))
 
 SLC_PM25_over_time$year <- factor(SLC_PM25_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
@@ -40,7 +42,9 @@ SLC_NO2_over_time <- SLC_NO2_over_time %>% mutate(pollutant = "NO2")
 SLC_NO2_over_time <- SLC_NO2_over_time %>%
   filter(month == "02") %>%
   group_by(year) %>%
-  summarise(daily_mean = mean(daily_mean))
+  summarise(daily_mean = mean(daily_mean)) %>%
+  mutate(pre_or_post = case_when(year == 2022 ~ "post",
+                                 year < 2022 ~ "pre"))
 
 SLC_NO2_over_time$year <- factor(SLC_NO2_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
@@ -61,7 +65,9 @@ SLC_CO_over_time <- SLC_CO_over_time %>% mutate(pollutant = "CO")
 SLC_CO_over_time <- SLC_CO_over_time %>%
   filter(month == "02") %>%
   group_by(year) %>%
-  summarise(daily_mean = mean(daily_mean))
+  summarise(daily_mean = mean(daily_mean)) %>%
+  mutate(pre_or_post = case_when(year == 2022 ~ "post",
+                                 year < 2022 ~ "pre"))
 
 SLC_CO_over_time$year <- factor(SLC_CO_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
@@ -70,23 +76,26 @@ SLC_over_time_all <- rbind(SLC_PM25_over_time,
                            SLC_NO2_over_time,
                            SLC_CO_over_time)
 
-SLC_PM25_bar <- ggplot(SLC_PM25_over_time, aes(x=year, y=daily_mean)) +
+SLC_PM25_bar <- ggplot(SLC_PM25_over_time, aes(x=year, y=daily_mean, fill=pre_or_post)) +
   geom_bar(stat = "identity") +
   xlab("Year") +
   ylab("Daily Mean (ug/m3)") +
-  labs(title="PM2.5")
+  labs(title="PM2.5") +
+  theme(legend.position = "none")
 
-SLC_NO2_bar <- ggplot(SLC_NO2_over_time, aes(x=year, y=daily_mean)) +
+SLC_NO2_bar <- ggplot(SLC_NO2_over_time, aes(x=year, y=daily_mean, fill=pre_or_post)) +
   geom_bar(stat = "identity") +
   xlab("Year") +
   ylab("Daily Mean (ppb)") +
-  labs(title="NO2")
+  labs(title="NO2") +
+  theme(legend.position = "none")
 
-SLC_CO_bar <- ggplot(SLC_CO_over_time, aes(x=year, y=daily_mean)) +
+SLC_CO_bar <- ggplot(SLC_CO_over_time, aes(x=year, y=daily_mean, fill=pre_or_post)) +
   geom_bar(stat = "identity") +
   xlab("Year") +
   ylab("Daily Mean (ppm)") +
-  labs(title="CO")
+  labs(title="CO") +
+  theme(legend.position = "none")
 
 library(patchwork)
 SLC_PM25_bar + SLC_NO2_bar + SLC_CO_bar + plot_annotation(

@@ -13,7 +13,7 @@ aggregate_PM25_change <- dcast(aggregate_PM25_change, city ~ pre_or_post, value.
 
 # creating new column to show change in pollutant concentration
 aggregate_PM25_change <- aggregate_PM25_change %>%
-  mutate(change = post-pre)
+  mutate(change = (post-pre)/(pre))
 
 # bar chart with concentration change pre and post implementation
 ggplot(aggregate_PM25_change, aes(x=city, y=change, fill=factor(sign(change)))) +
@@ -34,7 +34,7 @@ aggregate_NO2_change <- dcast(aggregate_NO2_change, city ~ pre_or_post, value.va
 
 # creating new column to show change in pollutant concentration
 aggregate_NO2_change <- aggregate_NO2_change %>%
-  mutate(change = post-pre)
+  mutate(change = (post-pre)/(pre))
 
 # bar chart with concentration change pre and post implementation
 ggplot(aggregate_NO2_change, aes(x=city, y=change, fill=factor(sign(change)))) +
@@ -55,7 +55,7 @@ aggregate_CO_change <- dcast(aggregate_CO_change, city ~ pre_or_post, value.var=
 
 # creating new column to show change in pollutant concentration
 aggregate_CO_change <- aggregate_CO_change %>%
-  mutate(change = post-pre)
+  mutate(change = (post-pre)/(pre))
 
 # bar chart with concentration change pre and post implementation
 ggplot(aggregate_CO_change, aes(x=city, y=change, fill=factor(sign(change)))) +

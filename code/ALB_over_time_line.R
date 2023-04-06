@@ -110,4 +110,4 @@ ALB_PM25_line / ALB_NO2_line / ALB_CO_line + plot_annotation(
   #caption = "These plots display average air pollutant concentrations each February over 5 years"
 )
 
-### Save figure as 800 h and 600 w approximately ###
+### Save figure as 800 h and 800 w approximately ###

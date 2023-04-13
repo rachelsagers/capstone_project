@@ -1,0 +1,824 @@
+Date,Source,Site ID,POC,Daily Max 1-hour NO2 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+1/1/2022,AQS,202090021,1,5.4,ppb,5,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/2/2022,AQS,202090021,1,37.3,ppb,35,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/3/2022,AQS,202090021,1,36.4,ppb,34,JFK,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/4/2022,AQS,202090021,1,11.9,ppb,10,JFK,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/5/2022,AQS,202090021,1,4.8,ppb,4,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/6/2022,AQS,202090021,1,9.8,ppb,8,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/7/2022,AQS,202090021,1,22.4,ppb,21,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/8/2022,AQS,202090021,1,19.2,ppb,18,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/9/2022,AQS,202090021,1,33.9,ppb,31,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/10/2022,AQS,202090021,1,33.4,ppb,31,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/11/2022,AQS,202090021,1,32.6,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/12/2022,AQS,202090021,1,24.3,ppb,23,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/13/2022,AQS,202090021,1,30.2,ppb,28,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/14/2022,AQS,202090021,1,32.5,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/15/2022,AQS,202090021,1,6.6,ppb,6,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/16/2022,AQS,202090021,1,17,ppb,16,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/17/2022,AQS,202090021,1,21.6,ppb,20,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/18/2022,AQS,202090021,1,34.6,ppb,32,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/19/2022,AQS,202090021,1,5.7,ppb,5,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/20/2022,AQS,202090021,1,16.6,ppb,15,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/21/2022,AQS,202090021,1,20.2,ppb,19,JFK,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/22/2022,AQS,202090021,1,30.1,ppb,28,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/23/2022,AQS,202090021,1,18.4,ppb,17,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/24/2022,AQS,202090021,1,19.7,ppb,18,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/25/2022,AQS,202090021,1,10.9,ppb,9,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/26/2022,AQS,202090021,1,31.9,ppb,29,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/27/2022,AQS,202090021,1,32.9,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/28/2022,AQS,202090021,1,36.4,ppb,34,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/29/2022,AQS,202090021,1,28.9,ppb,26,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/30/2022,AQS,202090021,1,35.3,ppb,33,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/31/2022,AQS,202090021,1,32,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/1/2022,AQS,202090021,1,12.2,ppb,11,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/2/2022,AQS,202090021,1,3.7,ppb,3,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/3/2022,AQS,202090021,1,10,ppb,9,JFK,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/4/2022,AQS,202090021,1,27.9,ppb,25,JFK,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/5/2022,AQS,202090021,1,19.1,ppb,18,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/6/2022,AQS,202090021,1,32.5,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/7/2022,AQS,202090021,1,29.5,ppb,27,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/8/2022,AQS,202090021,1,30.6,ppb,28,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/9/2022,AQS,202090021,1,26,ppb,25,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/10/2022,AQS,202090021,1,16.8,ppb,15,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/11/2022,AQS,202090021,1,10.2,ppb,9,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/12/2022,AQS,202090021,1,25.4,ppb,24,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/13/2022,AQS,202090021,1,26.2,ppb,25,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/14/2022,AQS,202090021,1,32.6,ppb,30,JFK,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/15/2022,AQS,202090021,1,25.1,ppb,24,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/16/2022,AQS,202090021,1,7.1,ppb,7,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/17/2022,AQS,202090021,1,33.8,ppb,31,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/18/2022,AQS,202090021,1,53.3,ppb,50,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/19/2022,AQS,202090021,1,33.2,ppb,31,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/20/2022,AQS,202090021,1,45.7,ppb,42,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/21/2022,AQS,202090021,1,25.6,ppb,24,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/22/2022,AQS,202090021,1,3.7,ppb,3,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/23/2022,AQS,202090021,1,5.4,ppb,5,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/24/2022,AQS,202090021,1,7.5,ppb,7,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/25/2022,AQS,202090021,1,30.9,ppb,28,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/26/2022,AQS,202090021,1,40.3,ppb,38,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/27/2022,AQS,202090021,1,49.3,ppb,46,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+2/28/2022,AQS,202090021,1,31.2,ppb,29,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/1/2022,AQS,202090021,1,46.6,ppb,43,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/2/2022,AQS,202090021,1,49.6,ppb,46,JFK,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/3/2022,AQS,202090021,1,10.4,ppb,9,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/4/2022,AQS,202090021,1,16.8,ppb,15,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/5/2022,AQS,202090021,1,6.7,ppb,6,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/6/2022,AQS,202090021,1,4.9,ppb,4,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/7/2022,AQS,202090021,1,42.6,ppb,40,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/8/2022,AQS,202090021,1,48.6,ppb,45,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/9/2022,AQS,202090021,1,26,ppb,25,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/10/2022,AQS,202090021,1,7.2,ppb,7,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/11/2022,AQS,202090021,1,11.8,ppb,10,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/12/2022,AQS,202090021,1,13.3,ppb,12,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/13/2022,AQS,202090021,1,9.3,ppb,8,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/14/2022,AQS,202090021,1,33.4,ppb,31,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/15/2022,AQS,202090021,1,47.4,ppb,44,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/16/2022,AQS,202090021,1,48.5,ppb,45,JFK,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+3/17/2022,AQS,202090021,1,22.9,ppb,21,JFK,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+6/28/2022,AQS,202090021,1,23.5,ppb,22,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+6/29/2022,AQS,202090021,1,17.9,ppb,16,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+6/30/2022,AQS,202090021,1,15.1,ppb,14,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/1/2022,AQS,202090021,1,14.1,ppb,13,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/2/2022,AQS,202090021,1,8.6,ppb,8,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/3/2022,AQS,202090021,1,6.8,ppb,6,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/4/2022,AQS,202090021,1,8.5,ppb,8,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/5/2022,AQS,202090021,1,8.5,ppb,8,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/6/2022,AQS,202090021,1,14.4,ppb,13,JFK,19,79,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/7/2022,AQS,202090021,1,13.6,ppb,12,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/8/2022,AQS,202090021,1,12,ppb,11,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/9/2022,AQS,202090021,1,10.4,ppb,9,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+7/10/2022,AQS,202090021,1,15.1,ppb,14,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/13/2022,AQS,202090021,1,19.1,ppb,18,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/14/2022,AQS,202090021,1,11.7,ppb,10,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/15/2022,AQS,202090021,1,3.7,ppb,3,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/16/2022,AQS,202090021,1,6.2,ppb,6,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/17/2022,AQS,202090021,1,10,ppb,9,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/18/2022,AQS,202090021,1,22,ppb,21,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/19/2022,AQS,202090021,1,28.1,ppb,26,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/20/2022,AQS,202090021,1,8.8,ppb,8,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/21/2022,AQS,202090021,1,19.7,ppb,18,JFK,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/22/2022,AQS,202090021,1,6.8,ppb,6,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/23/2022,AQS,202090021,1,3,ppb,3,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/24/2022,AQS,202090021,1,6.7,ppb,6,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/25/2022,AQS,202090021,1,11.4,ppb,10,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/26/2022,AQS,202090021,1,32,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/27/2022,AQS,202090021,1,38.9,ppb,36,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/28/2022,AQS,202090021,1,11.9,ppb,10,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/29/2022,AQS,202090021,1,19.1,ppb,18,JFK,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/30/2022,AQS,202090021,1,32.6,ppb,30,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+12/31/2022,AQS,202090021,1,36.6,ppb,34,JFK,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",20,Kansas,209,Wyandotte,39.117219,-94.635605
+1/1/2022,AQS,290950034,1,5.6,ppb,5,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/2/2022,AQS,290950034,1,36.1,ppb,34,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/3/2022,AQS,290950034,1,34.8,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/13/2022,AQS,290950034,1,37.4,ppb,35,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/14/2022,AQS,290950034,1,33.6,ppb,31,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/15/2022,AQS,290950034,1,15.6,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/16/2022,AQS,290950034,1,24.3,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/17/2022,AQS,290950034,1,22.9,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/18/2022,AQS,290950034,1,41.2,ppb,39,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/19/2022,AQS,290950034,1,17.7,ppb,16,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/20/2022,AQS,290950034,1,19.2,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/21/2022,AQS,290950034,1,26.9,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/22/2022,AQS,290950034,1,19.9,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/23/2022,AQS,290950034,1,18.7,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/24/2022,AQS,290950034,1,23.8,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/25/2022,AQS,290950034,1,14.6,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/26/2022,AQS,290950034,1,28.7,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/27/2022,AQS,290950034,1,38.8,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/28/2022,AQS,290950034,1,38.3,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/29/2022,AQS,290950034,1,27.6,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/30/2022,AQS,290950034,1,39.6,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/31/2022,AQS,290950034,1,33.6,ppb,31,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/1/2022,AQS,290950034,1,25.8,ppb,24,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/2/2022,AQS,290950034,1,5.3,ppb,5,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/3/2022,AQS,290950034,1,16.2,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/4/2022,AQS,290950034,1,34,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/5/2022,AQS,290950034,1,24.6,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/6/2022,AQS,290950034,1,22.4,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/7/2022,AQS,290950034,1,30.9,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/8/2022,AQS,290950034,1,29.8,ppb,27,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/9/2022,AQS,290950034,1,36.8,ppb,34,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/10/2022,AQS,290950034,1,26.7,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/11/2022,AQS,290950034,1,20.4,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/12/2022,AQS,290950034,1,26.2,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/13/2022,AQS,290950034,1,27.8,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/14/2022,AQS,290950034,1,27.3,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/15/2022,AQS,290950034,1,21.8,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/16/2022,AQS,290950034,1,16.4,ppb,15,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/17/2022,AQS,290950034,1,30.6,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/18/2022,AQS,290950034,1,39.6,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/19/2022,AQS,290950034,1,16.7,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/20/2022,AQS,290950034,1,38,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/21/2022,AQS,290950034,1,19.1,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/22/2022,AQS,290950034,1,8.4,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/23/2022,AQS,290950034,1,9.6,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/24/2022,AQS,290950034,1,13,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/25/2022,AQS,290950034,1,20.4,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/26/2022,AQS,290950034,1,39.8,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/27/2022,AQS,290950034,1,35.3,ppb,33,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+2/28/2022,AQS,290950034,1,25.3,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/1/2022,AQS,290950034,1,46.1,ppb,43,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/2/2022,AQS,290950034,1,41.9,ppb,39,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/3/2022,AQS,290950034,1,8.9,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/4/2022,AQS,290950034,1,11.5,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/5/2022,AQS,290950034,1,7.3,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/6/2022,AQS,290950034,1,12.3,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/7/2022,AQS,290950034,1,44.9,ppb,42,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/8/2022,AQS,290950034,1,44.3,ppb,42,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/9/2022,AQS,290950034,1,21,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/10/2022,AQS,290950034,1,12,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/11/2022,AQS,290950034,1,16.6,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/12/2022,AQS,290950034,1,15.4,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/13/2022,AQS,290950034,1,7.4,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/14/2022,AQS,290950034,1,42.5,ppb,40,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/15/2022,AQS,290950034,1,53.5,ppb,50,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/16/2022,AQS,290950034,1,47,ppb,44,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/17/2022,AQS,290950034,1,21.1,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/18/2022,AQS,290950034,1,14.7,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/19/2022,AQS,290950034,1,44,ppb,42,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/20/2022,AQS,290950034,1,15.6,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/21/2022,AQS,290950034,1,21.3,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/22/2022,AQS,290950034,1,16.8,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/23/2022,AQS,290950034,1,19.6,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/24/2022,AQS,290950034,1,18.6,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/25/2022,AQS,290950034,1,17.4,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/26/2022,AQS,290950034,1,17.4,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/27/2022,AQS,290950034,1,12.3,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/28/2022,AQS,290950034,1,9.9,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/29/2022,AQS,290950034,1,9.1,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/30/2022,AQS,290950034,1,13.1,ppb,12,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+3/31/2022,AQS,290950034,1,34.8,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/1/2022,AQS,290950034,1,32.4,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/2/2022,AQS,290950034,1,38.8,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/3/2022,AQS,290950034,1,22.1,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/4/2022,AQS,290950034,1,28,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/5/2022,AQS,290950034,1,27.4,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/6/2022,AQS,290950034,1,19.7,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/7/2022,AQS,290950034,1,11.9,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/8/2022,AQS,290950034,1,24.4,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/9/2022,AQS,290950034,1,26.7,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/10/2022,AQS,290950034,1,24.3,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/11/2022,AQS,290950034,1,35,ppb,33,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/12/2022,AQS,290950034,1,8.5,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/13/2022,AQS,290950034,1,23.6,ppb,22,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/14/2022,AQS,290950034,1,21,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/15/2022,AQS,290950034,1,39.4,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/16/2022,AQS,290950034,1,9,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/17/2022,AQS,290950034,1,8.5,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/18/2022,AQS,290950034,1,31.4,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/19/2022,AQS,290950034,1,18.1,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/20/2022,AQS,290950034,1,23.5,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/21/2022,AQS,290950034,1,27.8,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/22/2022,AQS,290950034,1,6.2,ppb,6,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/23/2022,AQS,290950034,1,11.7,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/24/2022,AQS,290950034,1,16.2,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/25/2022,AQS,290950034,1,18,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/26/2022,AQS,290950034,1,35.4,ppb,33,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/27/2022,AQS,290950034,1,11.9,ppb,10,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/28/2022,AQS,290950034,1,9.4,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/29/2022,AQS,290950034,1,12,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+4/30/2022,AQS,290950034,1,6.6,ppb,6,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/1/2022,AQS,290950034,1,32.3,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/2/2022,AQS,290950034,1,13.2,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/3/2022,AQS,290950034,1,13.4,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/4/2022,AQS,290950034,1,16.5,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/5/2022,AQS,290950034,1,19.7,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/6/2022,AQS,290950034,1,40.4,ppb,38,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/7/2022,AQS,290950034,1,37.3,ppb,35,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/8/2022,AQS,290950034,1,7.1,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/9/2022,AQS,290950034,1,4.4,ppb,4,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/10/2022,AQS,290950034,1,7.5,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/11/2022,AQS,290950034,1,7.5,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/12/2022,AQS,290950034,1,15.8,ppb,14,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/13/2022,AQS,290950034,1,33.9,ppb,31,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/14/2022,AQS,290950034,1,35.1,ppb,33,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/15/2022,AQS,290950034,1,28.2,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/16/2022,AQS,290950034,1,29.5,ppb,27,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/17/2022,AQS,290950034,1,13.5,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/18/2022,AQS,290950034,1,46.9,ppb,43,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/19/2022,AQS,290950034,1,26.8,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/20/2022,AQS,290950034,1,15.6,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/21/2022,AQS,290950034,1,15.8,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/22/2022,AQS,290950034,1,19.5,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/23/2022,AQS,290950034,1,20.7,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/24/2022,AQS,290950034,1,15.7,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/25/2022,AQS,290950034,1,12.7,ppb,11,Troost,20,83,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/26/2022,AQS,290950034,1,14,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/27/2022,AQS,290950034,1,20.7,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/28/2022,AQS,290950034,1,10.6,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/29/2022,AQS,290950034,1,4.1,ppb,4,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/30/2022,AQS,290950034,1,2.9,ppb,2,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+5/31/2022,AQS,290950034,1,22.2,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/1/2022,AQS,290950034,1,21.1,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/2/2022,AQS,290950034,1,25,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/3/2022,AQS,290950034,1,37.6,ppb,35,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/4/2022,AQS,290950034,1,11.6,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/5/2022,AQS,290950034,1,9.5,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/6/2022,AQS,290950034,1,32.1,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/7/2022,AQS,290950034,1,27.2,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/8/2022,AQS,290950034,1,41.8,ppb,39,Troost,20,83,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/9/2022,AQS,290950034,1,38.4,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/10/2022,AQS,290950034,1,30,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/11/2022,AQS,290950034,1,32.6,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/12/2022,AQS,290950034,1,10.9,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/13/2022,AQS,290950034,1,8.7,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/14/2022,AQS,290950034,1,5.2,ppb,5,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/15/2022,AQS,290950034,1,13.3,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/16/2022,AQS,290950034,1,16.6,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/17/2022,AQS,290950034,1,17.7,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/18/2022,AQS,290950034,1,7.1,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/19/2022,AQS,290950034,1,4.5,ppb,4,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/20/2022,AQS,290950034,1,7.7,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/21/2022,AQS,290950034,1,9.9,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/22/2022,AQS,290950034,1,25.5,ppb,24,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/23/2022,AQS,290950034,1,29.2,ppb,27,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/24/2022,AQS,290950034,1,23,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/25/2022,AQS,290950034,1,12.1,ppb,11,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/26/2022,AQS,290950034,1,20.6,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/27/2022,AQS,290950034,1,25.4,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/28/2022,AQS,290950034,1,16.5,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/29/2022,AQS,290950034,1,14.8,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+6/30/2022,AQS,290950034,1,14.1,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/1/2022,AQS,290950034,1,28.3,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/2/2022,AQS,290950034,1,10.7,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/3/2022,AQS,290950034,1,10.5,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/4/2022,AQS,290950034,1,9.4,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/5/2022,AQS,290950034,1,9.3,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/6/2022,AQS,290950034,1,25,ppb,24,Troost,19,79,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/7/2022,AQS,290950034,1,8.8,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/8/2022,AQS,290950034,1,26.8,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/9/2022,AQS,290950034,1,7.5,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/10/2022,AQS,290950034,1,10.4,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/11/2022,AQS,290950034,1,17.5,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/12/2022,AQS,290950034,1,36.1,ppb,34,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/13/2022,AQS,290950034,1,40.5,ppb,38,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/14/2022,AQS,290950034,1,21.9,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/15/2022,AQS,290950034,1,20.1,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/16/2022,AQS,290950034,1,32.9,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/17/2022,AQS,290950034,1,11.9,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/18/2022,AQS,290950034,1,31.4,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/19/2022,AQS,290950034,1,36.4,ppb,34,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/20/2022,AQS,290950034,1,31.3,ppb,29,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/21/2022,AQS,290950034,1,41.7,ppb,39,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/22/2022,AQS,290950034,1,28.8,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/23/2022,AQS,290950034,1,6.8,ppb,6,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/24/2022,AQS,290950034,1,12.7,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/25/2022,AQS,290950034,1,22.9,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/26/2022,AQS,290950034,1,22.1,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/27/2022,AQS,290950034,1,23,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/28/2022,AQS,290950034,1,31.7,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/29/2022,AQS,290950034,1,23.5,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/30/2022,AQS,290950034,1,20.8,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+7/31/2022,AQS,290950034,1,7.2,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/1/2022,AQS,290950034,1,15.9,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/2/2022,AQS,290950034,1,10.4,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/3/2022,AQS,290950034,1,25.3,ppb,24,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/4/2022,AQS,290950034,1,17.5,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/5/2022,AQS,290950034,1,19.1,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/6/2022,AQS,290950034,1,6,ppb,6,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/7/2022,AQS,290950034,1,4.9,ppb,4,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/8/2022,AQS,290950034,1,21.5,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/9/2022,AQS,290950034,1,21.9,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/10/2022,AQS,290950034,1,21.8,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/11/2022,AQS,290950034,1,32.1,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/12/2022,AQS,290950034,1,32.4,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/13/2022,AQS,290950034,1,19.3,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/14/2022,AQS,290950034,1,5.6,ppb,5,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/15/2022,AQS,290950034,1,5.4,ppb,5,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/16/2022,AQS,290950034,1,7.5,ppb,7,Troost,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/17/2022,AQS,290950034,1,25.6,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/18/2022,AQS,290950034,1,30.3,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/19/2022,AQS,290950034,1,17.9,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/20/2022,AQS,290950034,1,20,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/21/2022,AQS,290950034,1,24.7,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/22/2022,AQS,290950034,1,20.1,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/23/2022,AQS,290950034,1,30.1,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/24/2022,AQS,290950034,1,28.9,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/25/2022,AQS,290950034,1,18.1,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/26/2022,AQS,290950034,1,15.9,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/27/2022,AQS,290950034,1,12.7,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/28/2022,AQS,290950034,1,9.6,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/29/2022,AQS,290950034,1,23,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/30/2022,AQS,290950034,1,28.5,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+8/31/2022,AQS,290950034,1,29.4,ppb,27,Troost,21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/1/2022,AQS,290950034,1,23.5,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/2/2022,AQS,290950034,1,15.3,ppb,14,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/3/2022,AQS,290950034,1,14.3,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/4/2022,AQS,290950034,1,9.3,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/5/2022,AQS,290950034,1,20.7,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/6/2022,AQS,290950034,1,19,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/7/2022,AQS,290950034,1,20.1,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/8/2022,AQS,290950034,1,27.3,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/9/2022,AQS,290950034,1,17.6,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/10/2022,AQS,290950034,1,18.1,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/11/2022,AQS,290950034,1,34.4,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/12/2022,AQS,290950034,1,33.2,ppb,31,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/13/2022,AQS,290950034,1,32.4,ppb,30,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/14/2022,AQS,290950034,1,14.9,ppb,13,Troost,19,79,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/15/2022,AQS,290950034,1,17,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/16/2022,AQS,290950034,1,11.5,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/17/2022,AQS,290950034,1,9.7,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/18/2022,AQS,290950034,1,8.2,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/19/2022,AQS,290950034,1,22.9,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/20/2022,AQS,290950034,1,12.8,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/21/2022,AQS,290950034,1,29.1,ppb,27,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/22/2022,AQS,290950034,1,10.6,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/23/2022,AQS,290950034,1,12.4,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/24/2022,AQS,290950034,1,37,ppb,35,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/25/2022,AQS,290950034,1,25.5,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/26/2022,AQS,290950034,1,39.9,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/27/2022,AQS,290950034,1,35.8,ppb,33,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/28/2022,AQS,290950034,1,9.8,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/29/2022,AQS,290950034,1,20.8,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+9/30/2022,AQS,290950034,1,23,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/1/2022,AQS,290950034,1,25.9,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/2/2022,AQS,290950034,1,29.4,ppb,27,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/3/2022,AQS,290950034,1,28.7,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/4/2022,AQS,290950034,1,16.4,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/5/2022,AQS,290950034,1,38.1,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/6/2022,AQS,290950034,1,37.3,ppb,35,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/7/2022,AQS,290950034,1,14.8,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/8/2022,AQS,290950034,1,26.7,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/9/2022,AQS,290950034,1,39.8,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/10/2022,AQS,290950034,1,44.1,ppb,42,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/11/2022,AQS,290950034,1,8.1,ppb,8,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/12/2022,AQS,290950034,1,16.4,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/13/2022,AQS,290950034,1,20.3,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/14/2022,AQS,290950034,1,24.3,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/15/2022,AQS,290950034,1,28.3,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/16/2022,AQS,290950034,1,27.3,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/17/2022,AQS,290950034,1,17.4,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/18/2022,AQS,290950034,1,25.9,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/19/2022,AQS,290950034,1,40.3,ppb,38,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/20/2022,AQS,290950034,1,31.2,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/21/2022,AQS,290950034,1,24.4,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/22/2022,AQS,290950034,1,8.7,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/23/2022,AQS,290950034,1,3.9,ppb,3,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/24/2022,AQS,290950034,1,13.8,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/25/2022,AQS,290950034,1,24.7,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/26/2022,AQS,290950034,1,27.7,ppb,25,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/27/2022,AQS,290950034,1,21,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/28/2022,AQS,290950034,1,22.1,ppb,21,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/29/2022,AQS,290950034,1,31.1,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/30/2022,AQS,290950034,1,38.8,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+10/31/2022,AQS,290950034,1,43.8,ppb,41,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/1/2022,AQS,290950034,1,40.6,ppb,38,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/2/2022,AQS,290950034,1,20,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/3/2022,AQS,290950034,1,6.5,ppb,6,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/4/2022,AQS,290950034,1,7.8,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/5/2022,AQS,290950034,1,6.8,ppb,6,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/6/2022,AQS,290950034,1,13.6,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/7/2022,AQS,290950034,1,12.3,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/8/2022,AQS,290950034,1,14.1,ppb,13,Troost,23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/9/2022,AQS,290950034,1,12.2,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/10/2022,AQS,290950034,1,9.5,ppb,8,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/11/2022,AQS,290950034,1,13.3,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/12/2022,AQS,290950034,1,17.1,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/13/2022,AQS,290950034,1,31.9,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/14/2022,AQS,290950034,1,34.1,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/15/2022,AQS,290950034,1,28.5,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/16/2022,AQS,290950034,1,16.2,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/17/2022,AQS,290950034,1,27.4,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/18/2022,AQS,290950034,1,19.5,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/19/2022,AQS,290950034,1,28.2,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/20/2022,AQS,290950034,1,25.1,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/21/2022,AQS,290950034,1,33.9,ppb,31,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/22/2022,AQS,290950034,1,31.3,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/23/2022,AQS,290950034,1,17.9,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/24/2022,AQS,290950034,1,28.9,ppb,26,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/25/2022,AQS,290950034,1,38.5,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/26/2022,AQS,290950034,1,31.6,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/27/2022,AQS,290950034,1,16.8,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/28/2022,AQS,290950034,1,26.3,ppb,25,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/29/2022,AQS,290950034,1,16.1,ppb,15,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+11/30/2022,AQS,290950034,1,34.5,ppb,32,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/1/2022,AQS,290950034,1,33.3,ppb,31,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/2/2022,AQS,290950034,1,13.2,ppb,12,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/3/2022,AQS,290950034,1,30,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/4/2022,AQS,290950034,1,30.8,ppb,28,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/5/2022,AQS,290950034,1,23.9,ppb,22,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/6/2022,AQS,290950034,1,21.4,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/7/2022,AQS,290950034,1,33.6,ppb,31,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/8/2022,AQS,290950034,1,18.4,ppb,17,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/9/2022,AQS,290950034,1,17.2,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/10/2022,AQS,290950034,1,25.1,ppb,24,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/11/2022,AQS,290950034,1,24.2,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/12/2022,AQS,290950034,1,10.3,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/13/2022,AQS,290950034,1,17.4,ppb,16,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/14/2022,AQS,290950034,1,12.7,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/15/2022,AQS,290950034,1,10.2,ppb,9,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/16/2022,AQS,290950034,1,11,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/17/2022,AQS,290950034,1,19.5,ppb,18,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/18/2022,AQS,290950034,1,20.7,ppb,19,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/19/2022,AQS,290950034,1,21.7,ppb,20,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/20/2022,AQS,290950034,1,21.2,ppb,20,Troost,22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/21/2022,AQS,290950034,1,24.7,ppb,23,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/22/2022,AQS,290950034,1,12.8,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/23/2022,AQS,290950034,1,7.2,ppb,7,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/24/2022,AQS,290950034,1,11.7,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/25/2022,AQS,290950034,1,14.8,ppb,13,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/26/2022,AQS,290950034,1,38.4,ppb,36,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/27/2022,AQS,290950034,1,36.6,ppb,34,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/28/2022,AQS,290950034,1,11.1,ppb,10,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/29/2022,AQS,290950034,1,12,ppb,11,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/30/2022,AQS,290950034,1,31.2,ppb,29,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+12/31/2022,AQS,290950034,1,39.5,ppb,37,Troost,24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.10468637,-94.57078959
+1/1/2022,AQS,290950042,1,5.3,ppb,5,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/2/2022,AQS,290950042,1,36.9,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/3/2022,AQS,290950042,1,25.8,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/4/2022,AQS,290950042,1,14.1,ppb,13,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/5/2022,AQS,290950042,1,10.7,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/6/2022,AQS,290950042,1,8.9,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/7/2022,AQS,290950042,1,22,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/8/2022,AQS,290950042,1,15.7,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/9/2022,AQS,290950042,1,33.4,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/10/2022,AQS,290950042,1,32.9,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/11/2022,AQS,290950042,1,21.5,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/12/2022,AQS,290950042,1,30.1,ppb,28,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/13/2022,AQS,290950042,1,32.1,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/14/2022,AQS,290950042,1,31.8,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/15/2022,AQS,290950042,1,8.5,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/16/2022,AQS,290950042,1,29,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/17/2022,AQS,290950042,1,28.3,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/18/2022,AQS,290950042,1,37,ppb,35,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/19/2022,AQS,290950042,1,24.3,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/20/2022,AQS,290950042,1,19.1,ppb,18,"Blue Ridge, I-70",19,79,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/21/2022,AQS,290950042,1,24.7,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/22/2022,AQS,290950042,1,22.3,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/23/2022,AQS,290950042,1,20,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/24/2022,AQS,290950042,1,23.2,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/25/2022,AQS,290950042,1,11.2,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/26/2022,AQS,290950042,1,27.3,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/27/2022,AQS,290950042,1,39.8,ppb,37,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/28/2022,AQS,290950042,1,37.7,ppb,35,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/29/2022,AQS,290950042,1,43.1,ppb,41,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/30/2022,AQS,290950042,1,39,ppb,37,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+1/31/2022,AQS,290950042,1,27.4,ppb,25,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/1/2022,AQS,290950042,1,15.2,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/2/2022,AQS,290950042,1,13.3,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/3/2022,AQS,290950042,1,11.2,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/4/2022,AQS,290950042,1,35.1,ppb,33,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/5/2022,AQS,290950042,1,34.3,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/6/2022,AQS,290950042,1,14,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/7/2022,AQS,290950042,1,32.7,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/8/2022,AQS,290950042,1,42.8,ppb,40,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/9/2022,AQS,290950042,1,66.4,ppb,64,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/10/2022,AQS,290950042,1,39.7,ppb,37,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/11/2022,AQS,290950042,1,20.4,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/12/2022,AQS,290950042,1,27.8,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/13/2022,AQS,290950042,1,27.9,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/14/2022,AQS,290950042,1,31.4,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/15/2022,AQS,290950042,1,26.3,ppb,25,"Blue Ridge, I-70",20,83,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/16/2022,AQS,290950042,1,21.1,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/17/2022,AQS,290950042,1,40.1,ppb,38,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/18/2022,AQS,290950042,1,38.3,ppb,36,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/19/2022,AQS,290950042,1,21.8,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/20/2022,AQS,290950042,1,46.7,ppb,43,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/21/2022,AQS,290950042,1,24.6,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/22/2022,AQS,290950042,1,10,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/23/2022,AQS,290950042,1,6.1,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/24/2022,AQS,290950042,1,10.9,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/25/2022,AQS,290950042,1,17.6,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/26/2022,AQS,290950042,1,40.3,ppb,38,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/27/2022,AQS,290950042,1,49.5,ppb,46,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+2/28/2022,AQS,290950042,1,47.6,ppb,44,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/1/2022,AQS,290950042,1,50.4,ppb,47,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/2/2022,AQS,290950042,1,39.6,ppb,37,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/3/2022,AQS,290950042,1,9.8,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/4/2022,AQS,290950042,1,20.9,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/5/2022,AQS,290950042,1,8.5,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/6/2022,AQS,290950042,1,6.6,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/7/2022,AQS,290950042,1,41.1,ppb,39,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/8/2022,AQS,290950042,1,40.8,ppb,38,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/9/2022,AQS,290950042,1,29.3,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/10/2022,AQS,290950042,1,7,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/11/2022,AQS,290950042,1,26.6,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/12/2022,AQS,290950042,1,28.5,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/13/2022,AQS,290950042,1,12.7,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/14/2022,AQS,290950042,1,31.6,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/15/2022,AQS,290950042,1,51.6,ppb,48,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/16/2022,AQS,290950042,1,43.3,ppb,41,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/17/2022,AQS,290950042,1,30.4,ppb,28,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/18/2022,AQS,290950042,1,6.1,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/19/2022,AQS,290950042,1,40.2,ppb,38,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/20/2022,AQS,290950042,1,14.6,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/21/2022,AQS,290950042,1,29.3,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/22/2022,AQS,290950042,1,24.1,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/23/2022,AQS,290950042,1,6.5,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/24/2022,AQS,290950042,1,22.9,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/25/2022,AQS,290950042,1,25.4,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/26/2022,AQS,290950042,1,33.3,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/27/2022,AQS,290950042,1,20.6,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/28/2022,AQS,290950042,1,22.2,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/29/2022,AQS,290950042,1,13.1,ppb,12,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/30/2022,AQS,290950042,1,10.2,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+3/31/2022,AQS,290950042,1,34.2,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/1/2022,AQS,290950042,1,21.8,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/2/2022,AQS,290950042,1,37.8,ppb,35,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/3/2022,AQS,290950042,1,21.8,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/4/2022,AQS,290950042,1,20.5,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/5/2022,AQS,290950042,1,23.4,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/6/2022,AQS,290950042,1,22.7,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/7/2022,AQS,290950042,1,10.9,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/8/2022,AQS,290950042,1,36.8,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/9/2022,AQS,290950042,1,32.5,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/10/2022,AQS,290950042,1,8.9,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/11/2022,AQS,290950042,1,26.6,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/12/2022,AQS,290950042,1,8.4,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/13/2022,AQS,290950042,1,33.8,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/14/2022,AQS,290950042,1,37.1,ppb,35,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/15/2022,AQS,290950042,1,29.6,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/16/2022,AQS,290950042,1,6.8,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/17/2022,AQS,290950042,1,6.8,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/18/2022,AQS,290950042,1,22.4,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/19/2022,AQS,290950042,1,28.4,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/20/2022,AQS,290950042,1,18.2,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/21/2022,AQS,290950042,1,21.2,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/22/2022,AQS,290950042,1,10.5,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/23/2022,AQS,290950042,1,14.6,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/24/2022,AQS,290950042,1,13.5,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/25/2022,AQS,290950042,1,10,ppb,9,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/26/2022,AQS,290950042,1,33.6,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/27/2022,AQS,290950042,1,24.1,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/28/2022,AQS,290950042,1,13.9,ppb,12,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/29/2022,AQS,290950042,1,13.5,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+4/30/2022,AQS,290950042,1,10.3,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/1/2022,AQS,290950042,1,24.1,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/2/2022,AQS,290950042,1,10,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/3/2022,AQS,290950042,1,5.5,ppb,5,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/4/2022,AQS,290950042,1,18.4,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/5/2022,AQS,290950042,1,15,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/6/2022,AQS,290950042,1,28,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/7/2022,AQS,290950042,1,23.2,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/8/2022,AQS,290950042,1,11.2,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/9/2022,AQS,290950042,1,8.6,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/10/2022,AQS,290950042,1,11.3,ppb,10,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/11/2022,AQS,290950042,1,16.4,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/12/2022,AQS,290950042,1,19.4,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/13/2022,AQS,290950042,1,17.4,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/14/2022,AQS,290950042,1,45.8,ppb,42,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/15/2022,AQS,290950042,1,22.8,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/16/2022,AQS,290950042,1,38.1,ppb,36,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/17/2022,AQS,290950042,1,28.6,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/18/2022,AQS,290950042,1,34.1,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/19/2022,AQS,290950042,1,18.6,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/20/2022,AQS,290950042,1,16.2,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/21/2022,AQS,290950042,1,4.6,ppb,4,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/22/2022,AQS,290950042,1,9.6,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/23/2022,AQS,290950042,1,17.5,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/24/2022,AQS,290950042,1,13.4,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/25/2022,AQS,290950042,1,13.6,ppb,12,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/26/2022,AQS,290950042,1,12.7,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/27/2022,AQS,290950042,1,29.3,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/28/2022,AQS,290950042,1,10,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/29/2022,AQS,290950042,1,6.4,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/30/2022,AQS,290950042,1,4.4,ppb,4,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+5/31/2022,AQS,290950042,1,15,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/1/2022,AQS,290950042,1,21.5,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/2/2022,AQS,290950042,1,38.9,ppb,36,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/3/2022,AQS,290950042,1,29,ppb,27,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/4/2022,AQS,290950042,1,21.2,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/5/2022,AQS,290950042,1,16.6,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/6/2022,AQS,290950042,1,15.2,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/7/2022,AQS,290950042,1,16.4,ppb,15,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/8/2022,AQS,290950042,1,27.2,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/9/2022,AQS,290950042,1,22.8,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/10/2022,AQS,290950042,1,18.9,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/11/2022,AQS,290950042,1,21.8,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/12/2022,AQS,290950042,1,17,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/13/2022,AQS,290950042,1,9.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/14/2022,AQS,290950042,1,9,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/15/2022,AQS,290950042,1,8.2,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/16/2022,AQS,290950042,1,15.7,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/17/2022,AQS,290950042,1,22.2,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/18/2022,AQS,290950042,1,11.6,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/19/2022,AQS,290950042,1,8.5,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/20/2022,AQS,290950042,1,14.1,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/21/2022,AQS,290950042,1,14.5,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/22/2022,AQS,290950042,1,18.7,ppb,17,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/23/2022,AQS,290950042,1,25.8,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/24/2022,AQS,290950042,1,18.9,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/25/2022,AQS,290950042,1,7.2,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/26/2022,AQS,290950042,1,28.6,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/27/2022,AQS,290950042,1,24.3,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/28/2022,AQS,290950042,1,20.8,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/29/2022,AQS,290950042,1,24.5,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+6/30/2022,AQS,290950042,1,21.7,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/1/2022,AQS,290950042,1,21.2,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/2/2022,AQS,290950042,1,12.6,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/3/2022,AQS,290950042,1,11.4,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/4/2022,AQS,290950042,1,12.8,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/5/2022,AQS,290950042,1,18.5,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/6/2022,AQS,290950042,1,21.2,ppb,20,"Blue Ridge, I-70",20,83,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/7/2022,AQS,290950042,1,16,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/8/2022,AQS,290950042,1,8.9,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/9/2022,AQS,290950042,1,11.6,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/10/2022,AQS,290950042,1,12.3,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/11/2022,AQS,290950042,1,17.5,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/12/2022,AQS,290950042,1,30.2,ppb,28,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/13/2022,AQS,290950042,1,32.5,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/14/2022,AQS,290950042,1,20.7,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/15/2022,AQS,290950042,1,24.8,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/16/2022,AQS,290950042,1,16.9,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/17/2022,AQS,290950042,1,7.1,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/18/2022,AQS,290950042,1,20.7,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/23/2022,AQS,290950042,1,13.6,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/24/2022,AQS,290950042,1,8.6,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/25/2022,AQS,290950042,1,14.2,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/26/2022,AQS,290950042,1,17.5,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/27/2022,AQS,290950042,1,26.2,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/28/2022,AQS,290950042,1,23.5,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/29/2022,AQS,290950042,1,25.8,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/30/2022,AQS,290950042,1,9.5,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+7/31/2022,AQS,290950042,1,9.2,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/1/2022,AQS,290950042,1,24.8,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/2/2022,AQS,290950042,1,11,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/3/2022,AQS,290950042,1,21.6,ppb,20,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/4/2022,AQS,290950042,1,16.1,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/5/2022,AQS,290950042,1,18.6,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/6/2022,AQS,290950042,1,9.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/7/2022,AQS,290950042,1,8,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/8/2022,AQS,290950042,1,14.6,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/9/2022,AQS,290950042,1,5.8,ppb,5,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/10/2022,AQS,290950042,1,22.2,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/11/2022,AQS,290950042,1,25.5,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/12/2022,AQS,290950042,1,24.9,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/13/2022,AQS,290950042,1,25.6,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/14/2022,AQS,290950042,1,17.1,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/15/2022,AQS,290950042,1,11.5,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/16/2022,AQS,290950042,1,12.3,ppb,11,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/17/2022,AQS,290950042,1,16.1,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/18/2022,AQS,290950042,1,26.6,ppb,25,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/19/2022,AQS,290950042,1,24.1,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/20/2022,AQS,290950042,1,14.8,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/21/2022,AQS,290950042,1,20.4,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/22/2022,AQS,290950042,1,21.5,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/23/2022,AQS,290950042,1,27.4,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/24/2022,AQS,290950042,1,28.2,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/25/2022,AQS,290950042,1,20.1,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/26/2022,AQS,290950042,1,22.1,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/27/2022,AQS,290950042,1,12,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/28/2022,AQS,290950042,1,13.2,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/29/2022,AQS,290950042,1,18.8,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/30/2022,AQS,290950042,1,24.7,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+8/31/2022,AQS,290950042,1,26.8,ppb,25,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/1/2022,AQS,290950042,1,17.8,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/2/2022,AQS,290950042,1,16.4,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/3/2022,AQS,290950042,1,9.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/4/2022,AQS,290950042,1,3.3,ppb,3,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/5/2022,AQS,290950042,1,16.2,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/6/2022,AQS,290950042,1,24.3,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/7/2022,AQS,290950042,1,31.6,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/8/2022,AQS,290950042,1,20.7,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/9/2022,AQS,290950042,1,28.6,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/10/2022,AQS,290950042,1,14.7,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/11/2022,AQS,290950042,1,27.3,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/12/2022,AQS,290950042,1,45.1,ppb,42,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/13/2022,AQS,290950042,1,38.2,ppb,36,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/14/2022,AQS,290950042,1,28.1,ppb,26,"Blue Ridge, I-70",19,79,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/15/2022,AQS,290950042,1,21,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/16/2022,AQS,290950042,1,25.3,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/17/2022,AQS,290950042,1,10.4,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/18/2022,AQS,290950042,1,11.7,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/19/2022,AQS,290950042,1,23.9,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/20/2022,AQS,290950042,1,21.3,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/21/2022,AQS,290950042,1,25.9,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/22/2022,AQS,290950042,1,7,ppb,7,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/23/2022,AQS,290950042,1,16,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/24/2022,AQS,290950042,1,46.5,ppb,43,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/25/2022,AQS,290950042,1,39,ppb,37,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/26/2022,AQS,290950042,1,37,ppb,35,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/27/2022,AQS,290950042,1,28,ppb,26,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/28/2022,AQS,290950042,1,12.3,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/29/2022,AQS,290950042,1,22.1,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+9/30/2022,AQS,290950042,1,33.3,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/1/2022,AQS,290950042,1,21.9,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/2/2022,AQS,290950042,1,27.2,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/3/2022,AQS,290950042,1,36.2,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/4/2022,AQS,290950042,1,32,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/5/2022,AQS,290950042,1,34.7,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/6/2022,AQS,290950042,1,34.4,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/7/2022,AQS,290950042,1,11.6,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/8/2022,AQS,290950042,1,35.3,ppb,33,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/9/2022,AQS,290950042,1,42.1,ppb,40,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/10/2022,AQS,290950042,1,32,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/11/2022,AQS,290950042,1,16.4,ppb,15,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/12/2022,AQS,290950042,1,14,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/13/2022,AQS,290950042,1,36.8,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/14/2022,AQS,290950042,1,27.4,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/15/2022,AQS,290950042,1,34.2,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/16/2022,AQS,290950042,1,26.1,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/17/2022,AQS,290950042,1,6.2,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/18/2022,AQS,290950042,1,34.6,ppb,32,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/19/2022,AQS,290950042,1,40.4,ppb,38,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/20/2022,AQS,290950042,1,43.7,ppb,41,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/21/2022,AQS,290950042,1,22.6,ppb,21,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/22/2022,AQS,290950042,1,16.4,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/23/2022,AQS,290950042,1,5.4,ppb,5,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/24/2022,AQS,290950042,1,9.3,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/25/2022,AQS,290950042,1,28.1,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/26/2022,AQS,290950042,1,27.2,ppb,25,"Blue Ridge, I-70",21,88,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/27/2022,AQS,290950042,1,17.7,ppb,16,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/28/2022,AQS,290950042,1,25.3,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/29/2022,AQS,290950042,1,19,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/30/2022,AQS,290950042,1,31.2,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+10/31/2022,AQS,290950042,1,49.2,ppb,46,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/1/2022,AQS,290950042,1,33,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/2/2022,AQS,290950042,1,20.1,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/3/2022,AQS,290950042,1,12.6,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/4/2022,AQS,290950042,1,5.4,ppb,5,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/5/2022,AQS,290950042,1,11.3,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/6/2022,AQS,290950042,1,10.5,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/7/2022,AQS,290950042,1,11.8,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/8/2022,AQS,290950042,1,17.1,ppb,16,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/9/2022,AQS,290950042,1,13.2,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/10/2022,AQS,290950042,1,11.8,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/11/2022,AQS,290950042,1,6.3,ppb,6,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/12/2022,AQS,290950042,1,21.4,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/13/2022,AQS,290950042,1,21.8,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/14/2022,AQS,290950042,1,19.2,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/15/2022,AQS,290950042,1,23.7,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/16/2022,AQS,290950042,1,27.4,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/17/2022,AQS,290950042,1,25.6,ppb,24,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/18/2022,AQS,290950042,1,28.3,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/19/2022,AQS,290950042,1,33.2,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/20/2022,AQS,290950042,1,31,ppb,29,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/21/2022,AQS,290950042,1,16.5,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/22/2022,AQS,290950042,1,34.5,ppb,32,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/23/2022,AQS,290950042,1,20.4,ppb,19,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/24/2022,AQS,290950042,1,15.2,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/25/2022,AQS,290950042,1,36.2,ppb,34,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/26/2022,AQS,290950042,1,23.4,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/27/2022,AQS,290950042,1,21.1,ppb,20,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/28/2022,AQS,290950042,1,24.7,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/29/2022,AQS,290950042,1,12.5,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+11/30/2022,AQS,290950042,1,32.8,ppb,30,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/1/2022,AQS,290950042,1,28.4,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/2/2022,AQS,290950042,1,9.7,ppb,8,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/3/2022,AQS,290950042,1,26.7,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/4/2022,AQS,290950042,1,23.3,ppb,22,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/5/2022,AQS,290950042,1,19.3,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/6/2022,AQS,290950042,1,19.6,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/7/2022,AQS,290950042,1,33.1,ppb,31,"Blue Ridge, I-70",22,92,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/8/2022,AQS,290950042,1,11.6,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/9/2022,AQS,290950042,1,15.2,ppb,14,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/10/2022,AQS,290950042,1,19.4,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/11/2022,AQS,290950042,1,19.7,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/12/2022,AQS,290950042,1,12.4,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/13/2022,AQS,290950042,1,24.6,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/14/2022,AQS,290950042,1,14.5,ppb,13,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/15/2022,AQS,290950042,1,12.1,ppb,11,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/16/2022,AQS,290950042,1,10.4,ppb,9,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/17/2022,AQS,290950042,1,18.3,ppb,17,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/18/2022,AQS,290950042,1,28.8,ppb,26,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/19/2022,AQS,290950042,1,24.1,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/20/2022,AQS,290950042,1,17.1,ppb,16,"Blue Ridge, I-70",23,96,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/21/2022,AQS,290950042,1,19.1,ppb,18,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/22/2022,AQS,290950042,1,13.6,ppb,12,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/23/2022,AQS,290950042,1,11.6,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/24/2022,AQS,290950042,1,11.9,ppb,10,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/25/2022,AQS,290950042,1,24.8,ppb,23,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/26/2022,AQS,290950042,1,35.6,ppb,33,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/27/2022,AQS,290950042,1,33.7,ppb,31,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/28/2022,AQS,290950042,1,16.7,ppb,15,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513
+12/31/2022,AQS,290950042,1,27.3,ppb,25,"Blue Ridge, I-70",24,100,42602,Nitrogen dioxide (NO2),28140,"Kansas City, MO-KS",29,Missouri,95,Jackson,39.047911,-94.450513

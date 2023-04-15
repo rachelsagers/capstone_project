@@ -308,9 +308,9 @@ PM25_preandpost_boxplots$pre_or_post <- factor(PM25_preandpost_boxplots$pre_or_p
 ggplot(PM25_preandpost_boxplots, aes(x=city, y=daily_mean, fill=pre_or_post)) +
   geom_boxplot() +
   xlab("City") +
-  ylab("Mean Concentration (ug/m3") +
+  ylab("Mean Concentration (ug/m3)") +
   labs(fill = "Pre or Post",
-       title = "Mean PM2.5 Concentration Pre and Post Free Transit Implementation") +
+       title = "PM2.5 Concentration Pre and Post Free Transit Implementation") +
   theme(
     legend.position = "bottom"
   )

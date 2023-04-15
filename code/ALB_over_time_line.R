@@ -72,9 +72,10 @@ ALB_CO_over_time <- ALB_CO_over_time %>%
 
 ALB_CO_over_time$year <- factor(ALB_CO_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
+## Building Line Graphs
 ALB_PM25_line <- ggplot(ALB_PM25_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
                                         "03/04","03/11","03/18","03/25")) +
@@ -83,8 +84,8 @@ ALB_PM25_line <- ggplot(ALB_PM25_over_time, aes(x=month_day, y=daily_mean, group
   theme(legend.position = "none")
 
 ALB_NO2_line <- ggplot(ALB_NO2_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
                                         "03/04","03/11","03/18","03/25")) +
@@ -93,8 +94,8 @@ ALB_NO2_line <- ggplot(ALB_NO2_over_time, aes(x=month_day, y=daily_mean, group=y
   theme(legend.position = "none")
 
 ALB_CO_line <- ggplot(ALB_CO_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+  geom_line(size=1,aes(color=pre_or_post)) +
+  geom_point(size=1.25,aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
                                         "03/04","03/11","03/18","03/25")) +
@@ -103,9 +104,9 @@ ALB_CO_line <- ggplot(ALB_CO_over_time, aes(x=month_day, y=daily_mean, group=yea
   labs(color = "Pre or Post Implementation") +
   theme(legend.position = "bottom")
 #, #legend.justification = c("left","bottom"))
-
+ 
 library(patchwork)
-ALB_PM25_line / ALB_NO2_line / ALB_CO_line + plot_annotation(
+ALB_PM25_line / ALB_NO2_line / ALB_CO_line + plot_annotation(  
   title = "Albuquerque Pollutant Concentrations Over Time",
   #caption = "These plots display average air pollutant concentrations each February over 5 years"
 )

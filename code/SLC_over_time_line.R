@@ -102,8 +102,8 @@ SLC_CO_line <- ggplot(SLC_CO_over_time, aes(x=month_day, y=daily_mean, group=yea
 
 library(patchwork)
 SLC_PM25_line / SLC_NO2_line / SLC_CO_line + plot_annotation(
-  title = "Salt Lake City Pollutant Concentrations Over Time",
-  caption = "These plots display average air pollutant concentrations each February over 5 years"
+  title = "Salt Lake City Pollutant Concentrations Over Time"
+ # caption = "These plots display average air pollutant concentrations each February over 5 years"
 )
 
 ### Save figure as 700 h and 500 w approximately ###

@@ -25,7 +25,8 @@ ALB_PM25_over_time <- ALB_PM25_over_time %>%
                                  year < 2022 ~ "pre"))
 
 ALB_PM25_over_time$year <- factor(ALB_PM25_over_time$year, levels=c("2022","2021","2020","2019","2018"))
-
+#drop Feb 29
+ALB_PM25_over_time <- subset(ALB_PM25_over_time, month_day!="02/29")
 
 ### NO2 ###
 # aggregate all years into one dataframe
@@ -48,6 +49,7 @@ ALB_NO2_over_time <- ALB_NO2_over_time %>%
                                  year < 2022 ~ "pre"))
 
 ALB_NO2_over_time$year <- factor(ALB_NO2_over_time$year, levels=c("2022","2021","2020","2019","2018"))
+ALB_NO2_over_time <- subset(ALB_NO2_over_time, month_day!="02/29")
 
 
 ### CO ###
@@ -71,6 +73,7 @@ ALB_CO_over_time <- ALB_CO_over_time %>%
                                  year < 2022 ~ "pre"))
 
 ALB_CO_over_time$year <- factor(ALB_CO_over_time$year, levels=c("2022","2021","2020","2019","2018"))
+ALB_CO_over_time <- subset(ALB_CO_over_time, month_day!="02/29")
 
 ## Building Line Graphs
 ALB_PM25_line <- ggplot(ALB_PM25_over_time, aes(x=month_day, y=daily_mean, group=year)) +
@@ -78,7 +81,7 @@ ALB_PM25_line <- ggplot(ALB_PM25_over_time, aes(x=month_day, y=daily_mean, group
   geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
-                                        "03/04","03/11","03/18","03/25")) +
+                                        "03/11","03/18","03/25")) +
   ylab("Daily Mean (ug/m3)") +
   labs(title="PM2.5") +
   theme(legend.position = "none")
@@ -88,7 +91,7 @@ ALB_NO2_line <- ggplot(ALB_NO2_over_time, aes(x=month_day, y=daily_mean, group=y
   geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
-                                        "03/04","03/11","03/18","03/25")) +
+                                        "03/11","03/18","03/25")) +
   ylab("Daily 1-hr Max Conc (ppb)") +
   labs(title="NO2") +
   theme(legend.position = "none")
@@ -98,7 +101,7 @@ ALB_CO_line <- ggplot(ALB_CO_over_time, aes(x=month_day, y=daily_mean, group=yea
   geom_point(size=1.25,aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
-                                        "03/04","03/11","03/18","03/25")) +
+                                        "03/11","03/18","03/25")) +
   ylab("Daily 8-hr Max Conc (ppm)") +
   labs(title="CO") +
   labs(color = "Pre or Post Implementation") +

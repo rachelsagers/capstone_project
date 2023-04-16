@@ -73,8 +73,8 @@ SLC_CO_over_time <- SLC_CO_over_time %>%
 SLC_CO_over_time$year <- factor(SLC_CO_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
 SLC_PM25_line <- ggplot(SLC_PM25_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("02/01","02/04","02/07","02/10","02/13",
                                         "02/16","02/19","02/22","02/25","02/28")) +
   ylab("Daily Mean (ug/m3)") +
@@ -82,8 +82,8 @@ SLC_PM25_line <- ggplot(SLC_PM25_over_time, aes(x=month_day, y=daily_mean, group
   theme(legend.position = "none")
 
 SLC_NO2_line <- ggplot(SLC_NO2_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("02/01","02/04","02/07","02/10","02/13",
                                         "02/16","02/19","02/22","02/25","02/28")) +
   ylab("Daily 1-hr Max Conc (ppb)") +
@@ -91,8 +91,8 @@ SLC_NO2_line <- ggplot(SLC_NO2_over_time, aes(x=month_day, y=daily_mean, group=y
   theme(legend.position = "none")
 
 SLC_CO_line <- ggplot(SLC_CO_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("02/01","02/04","02/07","02/10","02/13",
                                         "02/16","02/19","02/22","02/25","02/28")) +
   ylab("Daily 8-hr Max Conc (ppm)") +

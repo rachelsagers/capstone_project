@@ -1,4 +1,4 @@
-here::i_am("code/LAX_over_time_line.R")
+here::i_am("code/ALB_over_time_line.R")
 
 library(dplyr)
 library(ggplot2)
@@ -6,75 +6,76 @@ library(ggplot2)
 ### Line Graphs (for use in paper) ###
 ### PM2.5 ###
 # aggregate all years into one dataframe
-LAX_PM25_over_time <- rbind(pm25_aggregated[["LAX_PM25_2021"]],
-                            pm25_aggregated[["LAX_PM25_2020"]],
-                            pm25_aggregated[["LAX_PM25_2019"]],
-                            pm25_aggregated[["LAX_PM25_2018"]],
-                            pm25_aggregated[["LAX_PM25_2017"]])
+ALB_PM25_over_time <- rbind(pm25_aggregated[["ALB_PM25_2022"]],
+                            pm25_aggregated[["ALB_PM25_2021"]],
+                            pm25_aggregated[["ALB_PM25_2020"]],
+                            pm25_aggregated[["ALB_PM25_2019"]],
+                            pm25_aggregated[["ALB_PM25_2018"]])
 
 # extract month into new column to filter on and year to group by, add pollutant column
-LAX_PM25_over_time$month <- format(as.Date(LAX_PM25_over_time$Date, format="%d/%m/%Y"), "%m")
-LAX_PM25_over_time$year <- format(as.Date(LAX_PM25_over_time$Date, format="%d/%m/%Y"), "%Y")
-LAX_PM25_over_time <- LAX_PM25_over_time %>% mutate(month_day = format(Date, "%m/%d"))
-LAX_PM25_over_time$month_day <- as.factor(LAX_PM25_over_time$month_day)
-LAX_PM25_over_time <- LAX_PM25_over_time %>% mutate(pollutant = "PM2.5")
+ALB_PM25_over_time$month <- format(as.Date(ALB_PM25_over_time$Date, format="%d/%m/%Y"), "%m")
+ALB_PM25_over_time$year <- format(as.Date(ALB_PM25_over_time$Date, format="%d/%m/%Y"), "%Y")
+ALB_PM25_over_time <- ALB_PM25_over_time %>% mutate(month_day = format(Date, "%m/%d"))
+ALB_PM25_over_time$month_day <- as.factor(ALB_PM25_over_time$month_day)
+ALB_PM25_over_time <- ALB_PM25_over_time %>% mutate(pollutant = "PM2.5")
 
-LAX_PM25_over_time <- LAX_PM25_over_time %>%
-  filter(between(month,03,05)) %>%
-  mutate(pre_or_post = case_when(year >= 2020 ~ "post",
-                                 year < 2020 ~ "pre"))
+ALB_PM25_over_time <- ALB_PM25_over_time %>%
+  filter(between(month,01,03)) %>%
+  mutate(pre_or_post = case_when(year >= 2022 ~ "post",
+                                 year < 2022 ~ "pre"))
 
-LAX_PM25_over_time$year <- factor(LAX_PM25_over_time$year, levels=c("2021","2020","2019","2018","2017"))
+ALB_PM25_over_time$year <- factor(ALB_PM25_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
 
 ### NO2 ###
 # aggregate all years into one dataframe
-LAX_NO2_over_time <- rbind(no2_aggregated[["LAX_NO2_2021"]],
-                           no2_aggregated[["LAX_NO2_2020"]],
-                           no2_aggregated[["LAX_NO2_2019"]],
-                           no2_aggregated[["LAX_NO2_2018"]],
-                           no2_aggregated[["LAX_NO2_2017"]])
+ALB_NO2_over_time <- rbind(no2_aggregated[["ALB_NO2_2022"]],
+                           no2_aggregated[["ALB_NO2_2021"]],
+                           no2_aggregated[["ALB_NO2_2020"]],
+                           no2_aggregated[["ALB_NO2_2019"]],
+                           no2_aggregated[["ALB_NO2_2018"]])
 
 # extract month into new column to filter on and year to group by, add pollutant column
-LAX_NO2_over_time$month <- format(as.Date(LAX_NO2_over_time$Date, format="%d/%m/%Y"), "%m")
-LAX_NO2_over_time$year <- format(as.Date(LAX_NO2_over_time$Date, format="%d/%m/%Y"), "%Y")
-LAX_NO2_over_time <- LAX_NO2_over_time %>% mutate(month_day = format(Date, "%m/%d"))
-LAX_NO2_over_time$month_day <- as.factor(LAX_NO2_over_time$month_day)
-LAX_NO2_over_time <- LAX_NO2_over_time %>% mutate(pollutant = "NO2")
+ALB_NO2_over_time$month <- format(as.Date(ALB_NO2_over_time$Date, format="%d/%m/%Y"), "%m")
+ALB_NO2_over_time$year <- format(as.Date(ALB_NO2_over_time$Date, format="%d/%m/%Y"), "%Y")
+ALB_NO2_over_time <- ALB_NO2_over_time %>% mutate(month_day = format(Date, "%m/%d"))
+ALB_NO2_over_time$month_day <- as.factor(ALB_NO2_over_time$month_day)
+ALB_NO2_over_time <- ALB_NO2_over_time %>% mutate(pollutant = "NO2")
 
-LAX_NO2_over_time <- LAX_NO2_over_time %>%
-  filter(between(month,03,05)) %>%
-  mutate(pre_or_post = case_when(year >= 2020 ~ "post",
-                                 year < 2020 ~ "pre"))
+ALB_NO2_over_time <- ALB_NO2_over_time %>%
+  filter(between(month,01,03)) %>%
+  mutate(pre_or_post = case_when(year >= 2022 ~ "post",
+                                 year < 2022 ~ "pre"))
 
-LAX_NO2_over_time$year <- factor(LAX_NO2_over_time$year, levels=c("2021","2020","2019","2018","2017"))
+ALB_NO2_over_time$year <- factor(ALB_NO2_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
 
 ### CO ###
 # aggregate all years into one dataframe
-LAX_CO_over_time <- rbind(co_aggregated[["LAX_CO_2021"]],
-                          co_aggregated[["LAX_CO_2020"]],
-                          co_aggregated[["LAX_CO_2019"]],
-                          co_aggregated[["LAX_CO_2018"]],
-                          co_aggregated[["LAX_CO_2017"]])
+ALB_CO_over_time <- rbind(co_aggregated[["ALB_CO_2022"]],
+                          co_aggregated[["ALB_CO_2021"]],
+                          co_aggregated[["ALB_CO_2020"]],
+                          co_aggregated[["ALB_CO_2019"]],
+                          co_aggregated[["ALB_CO_2018"]])
 
 # extract month into new column to filter on and year to group by, add pollutant column
-LAX_CO_over_time$month <- format(as.Date(LAX_CO_over_time$Date, format="%d/%m/%Y"), "%m")
-LAX_CO_over_time$year <- format(as.Date(LAX_CO_over_time$Date, format="%d/%m/%Y"), "%Y")
-LAX_CO_over_time <- LAX_CO_over_time %>% mutate(month_day = format(Date, "%m/%d"))
-LAX_CO_over_time$month_day <- as.factor(LAX_CO_over_time$month_day)
-LAX_CO_over_time <- LAX_CO_over_time %>% mutate(pollutant = "CO")
+ALB_CO_over_time$month <- format(as.Date(ALB_CO_over_time$Date, format="%d/%m/%Y"), "%m")
+ALB_CO_over_time$year <- format(as.Date(ALB_CO_over_time$Date, format="%d/%m/%Y"), "%Y")
+ALB_CO_over_time <- ALB_CO_over_time %>% mutate(month_day = format(Date, "%m/%d"))
+ALB_CO_over_time$month_day <- as.factor(ALB_CO_over_time$month_day)
+ALB_CO_over_time <- ALB_CO_over_time %>% mutate(pollutant = "CO")
 
-LAX_CO_over_time <- LAX_CO_over_time %>%
-  filter(between(month,03,05)) %>%
-  mutate(pre_or_post = case_when(year >= 2020 ~ "post",
-                                 year < 2020 ~ "pre"))
+ALB_CO_over_time <- ALB_CO_over_time %>%
+  filter(between(month,01,03)) %>%
+  mutate(pre_or_post = case_when(year >= 2022 ~ "post",
+                                 year < 2022 ~ "pre"))
 
-LAX_CO_over_time$year <- factor(LAX_CO_over_time$year, levels=c("2021","2020","2019","2018","2017"))
+ALB_CO_over_time$year <- factor(ALB_CO_over_time$year, levels=c("2022","2021","2020","2019","2018"))
 
-LAX_PM25_line <- ggplot(LAX_PM25_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+## Building Line Graphs
+ALB_PM25_line <- ggplot(ALB_PM25_over_time, aes(x=month_day, y=daily_mean, group=year)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
                                         "03/04","03/11","03/18","03/25")) +
@@ -82,9 +83,9 @@ LAX_PM25_line <- ggplot(LAX_PM25_over_time, aes(x=month_day, y=daily_mean, group
   labs(title="PM2.5") +
   theme(legend.position = "none")
 
-LAX_NO2_line <- ggplot(LAX_NO2_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+ALB_NO2_line <- ggplot(ALB_NO2_over_time, aes(x=month_day, y=daily_mean, group=year)) +
+  geom_line(size=1, aes(color=pre_or_post)) +
+  geom_point(size=1.25, aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
                                         "03/04","03/11","03/18","03/25")) +
@@ -92,9 +93,9 @@ LAX_NO2_line <- ggplot(LAX_NO2_over_time, aes(x=month_day, y=daily_mean, group=y
   labs(title="NO2") +
   theme(legend.position = "none")
 
-LAX_CO_line <- ggplot(LAX_CO_over_time, aes(x=month_day, y=daily_mean, group=year)) +
-  geom_line(aes(color=pre_or_post)) +
-  geom_point(aes(color=pre_or_post)) +
+ALB_CO_line <- ggplot(ALB_CO_over_time, aes(x=month_day, y=daily_mean, group=year)) +
+  geom_line(size=1,aes(color=pre_or_post)) +
+  geom_point(size=1.25,aes(color=pre_or_post)) +
   scale_x_discrete(name="Date",breaks=c("01/01","01/07","01/14","01/21","01/28",
                                         "02/04","02/11","02/18","02/25","03/04",
                                         "03/04","03/11","03/18","03/25")) +
@@ -105,7 +106,7 @@ LAX_CO_line <- ggplot(LAX_CO_over_time, aes(x=month_day, y=daily_mean, group=yea
 #, #legend.justification = c("left","bottom"))
 
 library(patchwork)
-LAX_PM25_line / LAX_NO2_line / LAX_CO_line + plot_annotation(
+ALB_PM25_line / ALB_NO2_line / ALB_CO_line + plot_annotation(  
   title = "Albuquerque Pollutant Concentrations Over Time",
   #caption = "These plots display average air pollutant concentrations each February over 5 years"
 )
